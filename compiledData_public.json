@@ -140,47 +140,7 @@
         "userCount": 1
       }
     },
-    "instances": [
-      {
-        "id": 1,
-        "organization": "ARS IDF",
-        "targetAudience": "Ars",
-        "softwareType": "cloud",
-        "cloudValue": "dnum",
-        "otherWikidataSoftwares": []
-      },
-      {
-        "id": 5,
-        "organization": "ARS PACA",
-        "targetAudience": "Chef de projet",
-        "softwareType": "desktop",
-        "osSelectValue": "windows",
-        "otherWikidataSoftwares": []
-      },
-      {
-        "id": 8,
-        "organization": "ARS IDF",
-        "targetAudience": "Développeur",
-        "softwareType": "cloud",
-        "cloudValue": "dnum",
-        "otherWikidataSoftwares": []
-      },
-      {
-        "id": 9,
-        "organization": "ARS idf",
-        "targetAudience": "dev",
-        "softwareType": "stack",
-        "otherWikidataSoftwares": []
-      },
-      {
-        "id": 10,
-        "organization": "ARS paca",
-        "targetAudience": "directeur",
-        "softwareType": "cloud",
-        "cloudValue": "nubo",
-        "otherWikidataSoftwares": []
-      }
-    ]
+    "instances": []
   },
   {
     "serviceProviders": [
@@ -263,16 +223,7 @@
         "userCount": 1
       }
     },
-    "instances": [
-      {
-        "id": 2,
-        "organization": "ARS IDF",
-        "targetAudience": "Développeur",
-        "softwareType": "desktop",
-        "osSelectValue": "windows",
-        "otherWikidataSoftwares": []
-      }
-    ]
+    "instances": []
   },
   {
     "serviceProviders": [
@@ -343,16 +294,7 @@
     ],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
-    "instances": [
-      {
-        "id": 4,
-        "organization": "ARS IDF",
-        "targetAudience": "dev",
-        "softwareType": "cloud",
-        "cloudValue": "dnum",
-        "otherWikidataSoftwares": []
-      }
-    ]
+    "instances": []
   },
   {
     "serviceProviders": [
@@ -512,31 +454,7 @@
     "similarExternalSoftwares": [],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
-    "instances": [
-      {
-        "id": 3,
-        "organization": "ARS IDF",
-        "targetAudience": "Développeur web",
-        "softwareType": "cloud",
-        "cloudValue": "outscale-snc",
-        "otherWikidataSoftwares": []
-      },
-      {
-        "id": 7,
-        "organization": "ARS ARA",
-        "targetAudience": "Chef de projet",
-        "softwareType": "cloud",
-        "cloudValue": "ovh",
-        "otherWikidataSoftwares": []
-      },
-      {
-        "id": 11,
-        "organization": "ARS Centre-Val de Loire",
-        "targetAudience": "Développeur web",
-        "softwareType": "stack",
-        "otherWikidataSoftwares": []
-      }
-    ]
+    "instances": []
   },
   {
     "serviceProviders": [
@@ -1239,22 +1157,6 @@
     ],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
-    "instances": [
-      {
-        "id": 6,
-        "organization": "ARS IDF",
-        "targetAudience": "Développeur",
-        "softwareType": "stack",
-        "otherWikidataSoftwares": []
-      },
-      {
-        "id": 12,
-        "organization": "ARS Provence-Alpes-Côte d'Azur",
-        "targetAudience": "Chef de projet",
-        "softwareType": "cloud",
-        "cloudValue": "nubo",
-        "otherWikidataSoftwares": []
-      }
-    ]
+    "instances": []
   }
 ]
