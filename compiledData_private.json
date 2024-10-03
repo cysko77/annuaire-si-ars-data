@@ -147,52 +147,7 @@
       }
     ],
     "referents": [],
-    "instances": [
-      {
-        "id": 1,
-        "organization": "ARS IDF",
-        "targetAudience": "Ars",
-        "softwareType": "cloud",
-        "cloudValue": "dnum",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
-      },
-      {
-        "id": 5,
-        "organization": "ARS PACA",
-        "targetAudience": "Chef de projet",
-        "softwareType": "desktop",
-        "osSelectValue": "windows",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
-      },
-      {
-        "id": 8,
-        "organization": "ARS IDF",
-        "targetAudience": "Développeur",
-        "softwareType": "cloud",
-        "cloudValue": "dnum",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
-      },
-      {
-        "id": 9,
-        "organization": "ARS idf",
-        "targetAudience": "dev",
-        "softwareType": "stack",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
-      },
-      {
-        "id": 10,
-        "organization": "ARS paca",
-        "targetAudience": "directeur",
-        "softwareType": "cloud",
-        "cloudValue": "nubo",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
-      }
-    ]
+    "instances": []
   },
   {
     "id": 3,
@@ -285,17 +240,7 @@
         "useCaseDescription": "test"
       }
     ],
-    "instances": [
-      {
-        "id": 2,
-        "organization": "ARS IDF",
-        "targetAudience": "Développeur",
-        "softwareType": "desktop",
-        "osSelectValue": "windows",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
-      }
-    ]
+    "instances": []
   },
   {
     "id": 4,
@@ -367,17 +312,7 @@
     ],
     "users": [],
     "referents": [],
-    "instances": [
-      {
-        "id": 4,
-        "organization": "ARS IDF",
-        "targetAudience": "dev",
-        "softwareType": "cloud",
-        "cloudValue": "dnum",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
-      }
-    ]
+    "instances": []
   },
   {
     "id": 5,
@@ -538,34 +473,7 @@
     "similarExternalSoftwares": [],
     "users": [],
     "referents": [],
-    "instances": [
-      {
-        "id": 3,
-        "organization": "ARS IDF",
-        "targetAudience": "Développeur web",
-        "softwareType": "cloud",
-        "cloudValue": "outscale-snc",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
-      },
-      {
-        "id": 7,
-        "organization": "ARS ARA",
-        "targetAudience": "Chef de projet",
-        "softwareType": "cloud",
-        "cloudValue": "ovh",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
-      },
-      {
-        "id": 11,
-        "organization": "ARS Centre-Val de Loire",
-        "targetAudience": "Développeur web",
-        "softwareType": "stack",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
-      }
-    ]
+    "instances": []
   },
   {
     "id": 6,
@@ -1272,24 +1180,6 @@
     ],
     "users": [],
     "referents": [],
-    "instances": [
-      {
-        "id": 6,
-        "organization": "ARS IDF",
-        "targetAudience": "Développeur",
-        "softwareType": "stack",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
-      },
-      {
-        "id": 12,
-        "organization": "ARS Provence-Alpes-Côte d'Azur",
-        "targetAudience": "Chef de projet",
-        "softwareType": "cloud",
-        "cloudValue": "nubo",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
-      }
-    ]
+    "instances": []
   }
 ]
