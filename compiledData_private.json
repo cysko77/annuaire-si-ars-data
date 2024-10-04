@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Microsoft Word",
+    "description": "logiciel informatique",
+    "referencedSinceTime": 1728071637526,
+    "updateTime": 1728071637526,
+    "isStillInObservation": false,
+    "doRespectRgaa": true,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 4,
+      "scoreTracabilite": 3,
+      "scoreConfidentialite": 2,
+      "scoreIntegrite": 1
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 1
+      },
+      {
+        "missions": "311",
+        "processus": 2
+      }
+    ],
+    "license": "EULA",
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": true,
+        "linux": true,
+        "mac": false
+      }
+    },
+    "versionMin": "1.6",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+    "keywords": [
+      ""
+    ],
+    "serviceProviders": [
+      {
+        "name": "Libre en Ariège",
+        "website": "https://www.libre-en-ariege.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3999"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q11261",
+      "externalDataOrigin": "wikidata",
+      "label": "Microsoft Word",
+      "description": {
+        "fr": "logiciel informatique",
+        "en": "word processor software part of Microsoft 365"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/220px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png",
+      "websiteUrl": "https://products.office.com/word",
+      "license": "EULA",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [
+      {
+        "externalId": "Q1139644",
+        "label": "LibreOffice Writer",
+        "description": {
+          "fr": "logiciel libre de traitement de texte",
+          "en": "word processor component of LibreOffice"
+        },
+        "isLibreSoftware": false,
+        "externalDataOrigin": "wikidata"
+      }
+    ],
+    "users": [],
+    "referents": [],
+    "instances": []
+  }
+]
