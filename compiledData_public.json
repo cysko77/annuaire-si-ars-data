@@ -95,5 +95,84 @@
       }
     },
     "instances": []
+  },
+  {
+    "serviceProviders": [
+      {
+        "name": "Obeo",
+        "website": "https://www.obeosoft.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/580"
+      }
+    ],
+    "categories": [],
+    "description": "Logiciel de tableur",
+    "doRespectRgaa": false,
+    "id": 2,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 1,
+      "scoreTracabilite": 2,
+      "scoreConfidentialite": 3,
+      "scoreIntegrite": 4
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 1
+      }
+    ],
+    "isStillInObservation": false,
+    "keywords": [
+      ""
+    ],
+    "license": "GNU",
+    "name": "Microsoft Excel",
+    "referencedSinceTime": 1728079134187,
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": false,
+        "linux": true,
+        "mac": false
+      }
+    },
+    "testUrls": [],
+    "updateTime": 1728079134187,
+    "versionMin": "1.6",
+    "workshopUrls": [],
+    "softwareExternalData": {
+      "externalId": "Q11272",
+      "externalDataOrigin": "wikidata",
+      "label": "Microsoft Excel",
+      "description": {
+        "fr": "Logiciel de tableur",
+        "en": "spreadsheet editor, part of Microsoft 365"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/220px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png",
+      "websiteUrl": "https://products.office.com/en-us/excel",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [
+      {
+        "externalId": "Q3774510",
+        "label": "LibreOffice Calc",
+        "description": {
+          "fr": "logiciel libre de tableur",
+          "en": "spreadsheet component of LibreOffice"
+        },
+        "isLibreSoftware": false,
+        "externalDataOrigin": "wikidata"
+      }
+    ],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": []
   }
 ]

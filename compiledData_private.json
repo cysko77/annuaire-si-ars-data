@@ -98,5 +98,85 @@
       }
     ],
     "instances": []
+  },
+  {
+    "id": 2,
+    "name": "Microsoft Excel",
+    "description": "Logiciel de tableur",
+    "referencedSinceTime": 1728079134187,
+    "updateTime": 1728079134187,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 1,
+      "scoreTracabilite": 2,
+      "scoreConfidentialite": 3,
+      "scoreIntegrite": 4
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 1
+      }
+    ],
+    "license": "GNU",
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": false,
+        "linux": true,
+        "mac": false
+      }
+    },
+    "versionMin": "1.6",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+    "keywords": [
+      ""
+    ],
+    "serviceProviders": [
+      {
+        "name": "Obeo",
+        "website": "https://www.obeosoft.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/580"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q11272",
+      "externalDataOrigin": "wikidata",
+      "label": "Microsoft Excel",
+      "description": {
+        "fr": "Logiciel de tableur",
+        "en": "spreadsheet editor, part of Microsoft 365"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/220px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png",
+      "websiteUrl": "https://products.office.com/en-us/excel",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [
+      {
+        "externalId": "Q3774510",
+        "label": "LibreOffice Calc",
+        "description": {
+          "fr": "logiciel libre de tableur",
+          "en": "spreadsheet component of LibreOffice"
+        },
+        "isLibreSoftware": false,
+        "externalDataOrigin": "wikidata"
+      }
+    ],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
