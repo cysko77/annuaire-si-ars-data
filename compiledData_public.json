@@ -90,7 +90,8 @@
       "scoreConfidentialite": 2,
       "scoreIntegrite": 1
     },
-    "scopes": [],    "isStillInObservation": false,
+    "scopes": [],
+    "isStillInObservation": false,
     "keywords": [
       ""
     ],
