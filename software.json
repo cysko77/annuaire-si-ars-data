@@ -54,5 +54,49 @@
         "keywords": [
             ""
         ]
+    },
+    {
+        "id": 2,
+        "name": "Microsoft Excel",
+        "description": "Logiciel de tableur",
+        "referencedSinceTime": 1728079134187,
+        "updateTime": 1728079134187,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": true,
+        "dicts": {
+            "scoreDisponibilite": 1,
+            "scoreTracabilite": 2,
+            "scoreConfidentialite": 3,
+            "scoreIntegrite": 4
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            }
+        ],
+        "similarSoftwareExternalDataIds": [
+            "Q3774510"
+        ],
+        "externalId": "Q11272",
+        "license": "GNU",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": false,
+                "linux": true,
+                "mac": false
+            }
+        },
+        "versionMin": "1.6",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "keywords": [
+            ""
+        ]
     }
 ]
