@@ -4,7 +4,7 @@
     "name": "Microsoft Word",
     "description": "logiciel informatique",
     "referencedSinceTime": 1728071637526,
-    "updateTime": 1728071637526,
+    "updateTime": 1728078662659,
     "isStillInObservation": false,
     "doRespectRgaa": true,
     "isFromFrenchPublicService": false,
@@ -23,6 +23,14 @@
       {
         "missions": "311",
         "processus": 2
+      },
+      {
+        "missions": "312",
+        "processus": 9
+      },
+      {
+        "missions": "312",
+        "processus": 10
       }
     ],
     "license": "EULA",
