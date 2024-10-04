@@ -17,12 +17,7 @@
             "scoreConfidentialite": 2,
             "scoreIntegrite": 2
         },
-        "scopesProcessus": [
-            2,
-            38,
-            52,
-            1
-        ],
+        "scopes": [],
         "similarSoftwareExternalDataIds": [
             "Q1406",
             "Q11261"
@@ -59,10 +54,7 @@
             "scoreConfidentialite": 2,
             "scoreIntegrite": 1
         },
-        "scopesProcessus": [
-            1,
-            8
-        ],
+        "scopes": [],
         "similarSoftwareExternalDataIds": [],
         "externalId": "Q1406",
         "license": "non-free license",
@@ -96,9 +88,7 @@
             "scoreConfidentialite": 2,
             "scoreIntegrite": 1
         },
-        "scopesProcessus": [
-            1
-        ],
+        "scopes": [],
         "similarSoftwareExternalDataIds": [
             "Q1406"
         ],
@@ -136,10 +126,7 @@
             "scoreConfidentialite": 3,
             "scoreIntegrite": 2
         },
-        "scopesProcessus": [
-            1,
-            2
-        ],
+        "scopes": [],
         "similarSoftwareExternalDataIds": [
             "Q376522"
         ],
@@ -173,9 +160,7 @@
             "scoreConfidentialite": 4,
             "scoreIntegrite": 4
         },
-        "scopesProcessus": [
-            1
-        ],
+        "scopes": [],
         "similarSoftwareExternalDataIds": [],
         "externalId": "Q456157",
         "license": "GNU",
@@ -207,11 +192,7 @@
             "scoreConfidentialite": 2,
             "scoreIntegrite": 4
         },
-        "scopesProcessus": [
-            4,
-            5,
-            6
-        ],
+        "scopes": [],
         "similarSoftwareExternalDataIds": [
             "Q56062435"
         ],
@@ -250,9 +231,7 @@
             "scoreConfidentialite": 4,
             "scoreIntegrite": 4
         },
-        "scopesProcessus": [
-            132
-        ],
+        "scopes": [],
         "similarSoftwareExternalDataIds": [
             "Q15777"
         ],
@@ -287,9 +266,7 @@
             "scoreConfidentialite": 4,
             "scoreIntegrite": 4
         },
-        "scopesProcessus": [
-            1
-        ],
+        "scopes": [],
         "similarSoftwareExternalDataIds": [
             "Q2407"
         ],
@@ -323,9 +300,7 @@
             "scoreConfidentialite": 4,
             "scoreIntegrite": 4
         },
-        "scopesProcessus": [
-            6
-        ],
+        "scopes": [],
         "similarSoftwareExternalDataIds": [
             "Q456157"
         ],
