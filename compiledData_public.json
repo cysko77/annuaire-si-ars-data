@@ -79,8 +79,13 @@
         "externalDataOrigin": "wikidata"
       }
     ],
-    "hasExpertReferent": false,
-    "userAndReferentCountByOrganization": {},
+    "hasExpertReferent": true,
+    "userAndReferentCountByOrganization": {
+      "ARS": {
+        "referentCount": 1,
+        "userCount": 0
+      }
+    },
     "instances": []
   }
 ]
