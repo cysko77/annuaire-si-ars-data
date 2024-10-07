@@ -58,7 +58,7 @@
     {
         "id": 2,
         "referencedSinceTime": 1728079134187,
-        "updateTime": 1728079171168,
+        "updateTime": 1728293906217,
         "isStillInObservation": false,
         "doRespectRgaa": false,
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
@@ -81,6 +81,10 @@
             {
                 "missions": "311",
                 "processus": 2
+            },
+            {
+                "missions": "312",
+                "processus": 8
             }
         ],
         "similarSoftwareExternalDataIds": [
