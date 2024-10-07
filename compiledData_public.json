@@ -124,6 +124,10 @@
       {
         "missions": "311",
         "processus": 2
+      },
+      {
+        "missions": "312",
+        "processus": 8
       }
     ],
     "isStillInObservation": false,
@@ -142,7 +146,7 @@
       }
     },
     "testUrls": [],
-    "updateTime": 1728079171168,
+    "updateTime": 1728293906217,
     "versionMin": "1.6",
     "workshopUrls": [],
     "softwareExternalData": {
