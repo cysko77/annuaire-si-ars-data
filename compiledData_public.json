@@ -94,7 +94,14 @@
         "userCount": 0
       }
     },
-    "instances": []
+    "instances": [
+      {
+        "id": 1,
+        "organization": "ARS IDF",
+        "targetAudience": "ze",
+        "otherWikidataSoftwares": []
+      }
+    ]
   },
   {
     "serviceProviders": [
