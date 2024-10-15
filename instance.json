@@ -22,5 +22,17 @@
         "cloudValue": "dinum",
         "referencedSinceTime": 1728998905024,
         "updateTime": 1728998905024
+    },
+    {
+        "id": 3,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "organization": "ARS Nouvelle-Aquitaine",
+        "mainSoftwareSillId": 1,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "d",
+        "softwareType": "cloud",
+        "cloudValue": "dnum",
+        "referencedSinceTime": 1728999008172,
+        "updateTime": 1728999008172
     }
 ]
