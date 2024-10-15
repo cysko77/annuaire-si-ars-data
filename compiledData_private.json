@@ -4,7 +4,7 @@
     "name": "Microsoft Word",
     "description": "logiciel informatique",
     "referencedSinceTime": 1728071637526,
-    "updateTime": 1729023684774,
+    "updateTime": 1729023724072,
     "isStillInObservation": false,
     "doRespectRgaa": true,
     "isFromFrenchPublicService": false,
@@ -48,8 +48,7 @@
     "categories": [],
     "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
     "keywords": [
-      "test",
-      "tutu"
+      "test"
     ],
     "serviceProviders": [
       {

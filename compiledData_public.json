@@ -39,8 +39,7 @@
     ],
     "isStillInObservation": false,
     "keywords": [
-      "test",
-      "tutu"
+      "test"
     ],
     "license": "EULA",
     "name": "Microsoft Word",
@@ -54,7 +53,7 @@
       }
     },
     "testUrls": [],
-    "updateTime": 1729023684774,
+    "updateTime": 1729023724072,
     "versionMin": "1.6",
     "workshopUrls": [],
     "softwareExternalData": {
