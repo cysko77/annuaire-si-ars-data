@@ -46,5 +46,17 @@
         "cloudValue": "pi",
         "referencedSinceTime": 1728999128209,
         "updateTime": 1728999128209
+    },
+    {
+        "id": 5,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "organization": "ARS Martinique",
+        "mainSoftwareSillId": 1,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "sd",
+        "softwareType": "cloud",
+        "cloudValue": "scaleway",
+        "referencedSinceTime": 1728999206844,
+        "updateTime": 1728999206844
     }
 ]
