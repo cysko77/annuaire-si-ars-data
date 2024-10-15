@@ -135,7 +135,7 @@
     "name": "Microsoft Excel",
     "description": "Logiciel de tableur",
     "referencedSinceTime": 1728079134187,
-    "updateTime": 1729010305928,
+    "updateTime": 1729010334343,
     "isStillInObservation": false,
     "doRespectRgaa": false,
     "isFromFrenchPublicService": false,
@@ -162,12 +162,7 @@
     ],
     "license": "GNU",
     "softwareType": {
-      "type": "desktop/mobile",
-      "os": {
-        "windows": false,
-        "linux": true,
-        "mac": false
-      }
+      "type": "cloud"
     },
     "versionMin": "1.6",
     "workshopUrls": [],

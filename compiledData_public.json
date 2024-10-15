@@ -165,15 +165,10 @@
     "name": "Microsoft Excel",
     "referencedSinceTime": 1728079134187,
     "softwareType": {
-      "type": "desktop/mobile",
-      "os": {
-        "windows": false,
-        "linux": true,
-        "mac": false
-      }
+      "type": "cloud"
     },
     "testUrls": [],
-    "updateTime": 1729010305928,
+    "updateTime": 1729010334343,
     "versionMin": "1.6",
     "workshopUrls": [],
     "softwareExternalData": {
