@@ -94,7 +94,16 @@
         "userCount": 0
       }
     },
-    "instances": []
+    "instances": [
+      {
+        "id": 1,
+        "organization": "ARS Guyane",
+        "targetAudience": "wxwx",
+        "softwareType": "desktop",
+        "osSelectValue": "linux",
+        "otherWikidataSoftwares": []
+      }
+    ]
   },
   {
     "serviceProviders": [
