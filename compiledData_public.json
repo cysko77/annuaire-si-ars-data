@@ -105,6 +105,14 @@
         "softwareType": "cloud",
         "cloudValue": "dnum",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 4,
+        "organization": "ARS Martinique",
+        "targetAudience": "sd",
+        "softwareType": "cloud",
+        "cloudValue": "pi",
+        "otherWikidataSoftwares": []
       }
     ]
   },
