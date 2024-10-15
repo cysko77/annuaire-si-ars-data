@@ -116,6 +116,14 @@
         "softwareType": "cloud",
         "cloudValue": "pi",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 5,
+        "organization": "ARS Martinique",
+        "targetAudience": "sd",
+        "softwareType": "cloud",
+        "cloudValue": "scaleway",
+        "otherWikidataSoftwares": []
       }
     ]
   },

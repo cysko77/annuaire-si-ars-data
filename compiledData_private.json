@@ -123,6 +123,15 @@
         "cloudValue": "pi",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
+      },
+      {
+        "id": 5,
+        "organization": "ARS Martinique",
+        "targetAudience": "sd",
+        "softwareType": "cloud",
+        "cloudValue": "scaleway",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
       }
     ]
   },
