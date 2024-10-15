@@ -112,7 +112,7 @@
     "name": "Microsoft Excel",
     "description": "Logiciel de tableur",
     "referencedSinceTime": 1728079134187,
-    "updateTime": 1728293906217,
+    "updateTime": 1728986148614,
     "isStillInObservation": false,
     "doRespectRgaa": false,
     "isFromFrenchPublicService": false,
@@ -152,7 +152,7 @@
     "categories": [],
     "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
     "keywords": [
-      ""
+      "ssds"
     ],
     "serviceProviders": [
       {
