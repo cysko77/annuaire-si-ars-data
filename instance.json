@@ -10,5 +10,17 @@
         "osSelectValue": "linux",
         "referencedSinceTime": 1728990414655,
         "updateTime": 1728990414655
+    },
+    {
+        "id": 2,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "organization": "ARS Nouvelle-Aquitaine",
+        "mainSoftwareSillId": 1,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "dsd",
+        "softwareType": "cloud",
+        "cloudValue": "dinum",
+        "referencedSinceTime": 1728998905024,
+        "updateTime": 1728998905024
     }
 ]
