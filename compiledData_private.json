@@ -4,7 +4,7 @@
     "name": "Microsoft Word",
     "description": "logiciel informatique",
     "referencedSinceTime": 1728071637526,
-    "updateTime": 1728999157869,
+    "updateTime": 1728999208199,
     "isStillInObservation": false,
     "doRespectRgaa": true,
     "isFromFrenchPublicService": false,
@@ -47,10 +47,7 @@
     "testUrls": [],
     "categories": [],
     "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
-    "keywords": [
-      "test",
-      "tutu"
-    ],
+    "keywords": [],
     "serviceProviders": [
       {
         "name": "Libre en Ariège",
