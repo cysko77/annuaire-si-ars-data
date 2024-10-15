@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "id": 1,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "organization": "ARS Guyane",
+        "mainSoftwareSillId": 1,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "wxwx",
+        "softwareType": "desktop",
+        "osSelectValue": "linux",
+        "referencedSinceTime": 1728990414655,
+        "updateTime": 1728990414655
+    }
+]
