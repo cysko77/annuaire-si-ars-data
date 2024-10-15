@@ -2,7 +2,7 @@
     {
         "id": 1,
         "referencedSinceTime": 1728071637526,
-        "updateTime": 1728938937388,
+        "updateTime": 1728990418989,
         "isStillInObservation": false,
         "doRespectRgaa": true,
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
@@ -35,9 +35,7 @@
                 "processus": 10
             }
         ],
-        "similarSoftwareExternalDataIds": [
-            "Q1139644"
-        ],
+        "similarSoftwareExternalDataIds": [],
         "description": "logiciel informatique",
         "license": "EULA",
         "versionMin": "1.6",
@@ -52,7 +50,7 @@
         },
         "externalId": "Q11261",
         "keywords": [
-            ""
+            "test"
         ]
     },
     {
