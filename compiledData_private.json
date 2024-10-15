@@ -4,7 +4,7 @@
     "name": "Microsoft Word",
     "description": "logiciel informatique",
     "referencedSinceTime": 1728071637526,
-    "updateTime": 1728999208199,
+    "updateTime": 1728999315712,
     "isStillInObservation": false,
     "doRespectRgaa": true,
     "isFromFrenchPublicService": false,
@@ -35,19 +35,17 @@
     ],
     "license": "EULA",
     "softwareType": {
-      "type": "desktop/mobile",
-      "os": {
-        "windows": true,
-        "linux": true,
-        "mac": false
-      }
+      "type": "cloud"
     },
     "versionMin": "1.6",
     "workshopUrls": [],
     "testUrls": [],
     "categories": [],
     "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
-    "keywords": [],
+    "keywords": [
+      "test",
+      "tutu"
+    ],
     "serviceProviders": [
       {
         "name": "Libre en Ariège",

@@ -38,20 +38,18 @@
       }
     ],
     "isStillInObservation": false,
-    "keywords": [],
+    "keywords": [
+      "test",
+      "tutu"
+    ],
     "license": "EULA",
     "name": "Microsoft Word",
     "referencedSinceTime": 1728071637526,
     "softwareType": {
-      "type": "desktop/mobile",
-      "os": {
-        "windows": true,
-        "linux": true,
-        "mac": false
-      }
+      "type": "cloud"
     },
     "testUrls": [],
-    "updateTime": 1728999208199,
+    "updateTime": 1728999315712,
     "versionMin": "1.6",
     "workshopUrls": [],
     "softwareExternalData": {
