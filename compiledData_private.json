@@ -95,6 +95,15 @@
         "osSelectValue": "linux",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
+      },
+      {
+        "id": 2,
+        "organization": "ARS Nouvelle-Aquitaine",
+        "targetAudience": "dsd",
+        "softwareType": "cloud",
+        "cloudValue": "dinum",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
       }
     ]
   },

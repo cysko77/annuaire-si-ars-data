@@ -91,6 +91,14 @@
         "softwareType": "desktop",
         "osSelectValue": "linux",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 2,
+        "organization": "ARS Nouvelle-Aquitaine",
+        "targetAudience": "dsd",
+        "softwareType": "cloud",
+        "cloudValue": "dinum",
+        "otherWikidataSoftwares": []
       }
     ]
   },
