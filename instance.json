@@ -1,12 +1,1 @@
-[
-    {
-        "id": 1,
-        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
-        "organization": "ARS IDF",
-        "mainSoftwareSillId": 1,
-        "otherSoftwareWikidataIds": [],
-        "targetAudience": "ze",
-        "referencedSinceTime": 1728938973318,
-        "updateTime": 1728938973318
-    }
-]
+[]
