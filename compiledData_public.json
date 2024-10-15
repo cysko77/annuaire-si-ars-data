@@ -39,7 +39,7 @@
     ],
     "isStillInObservation": false,
     "keywords": [
-      ""
+      "test"
     ],
     "license": "EULA",
     "name": "Microsoft Word",
@@ -53,7 +53,7 @@
       }
     },
     "testUrls": [],
-    "updateTime": 1728938937388,
+    "updateTime": 1728990418989,
     "versionMin": "1.6",
     "workshopUrls": [],
     "softwareExternalData": {
@@ -75,18 +75,7 @@
         }
       ]
     },
-    "similarExternalSoftwares": [
-      {
-        "externalId": "Q1139644",
-        "label": "LibreOffice Writer",
-        "description": {
-          "fr": "logiciel libre de traitement de texte",
-          "en": "word processor component of LibreOffice"
-        },
-        "isLibreSoftware": false,
-        "externalDataOrigin": "wikidata"
-      }
-    ],
+    "similarExternalSoftwares": [],
     "hasExpertReferent": true,
     "userAndReferentCountByOrganization": {
       "ARS": {

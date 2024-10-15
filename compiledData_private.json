@@ -4,7 +4,7 @@
     "name": "Microsoft Word",
     "description": "logiciel informatique",
     "referencedSinceTime": 1728071637526,
-    "updateTime": 1728938937388,
+    "updateTime": 1728990418989,
     "isStillInObservation": false,
     "doRespectRgaa": true,
     "isFromFrenchPublicService": false,
@@ -48,7 +48,7 @@
     "categories": [],
     "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
     "keywords": [
-      ""
+      "test"
     ],
     "serviceProviders": [
       {
@@ -76,18 +76,7 @@
         }
       ]
     },
-    "similarExternalSoftwares": [
-      {
-        "externalId": "Q1139644",
-        "label": "LibreOffice Writer",
-        "description": {
-          "fr": "logiciel libre de traitement de texte",
-          "en": "word processor component of LibreOffice"
-        },
-        "isLibreSoftware": false,
-        "externalDataOrigin": "wikidata"
-      }
-    ],
+    "similarExternalSoftwares": [],
     "users": [],
     "referents": [
       {
