@@ -97,15 +97,7 @@
         "useCaseDescription": "test"
       }
     ],
-    "instances": [
-      {
-        "id": 1,
-        "organization": "ARS IDF",
-        "targetAudience": "ze",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
-      }
-    ]
+    "instances": []
   },
   {
     "id": 2,
