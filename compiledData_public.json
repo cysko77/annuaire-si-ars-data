@@ -38,9 +38,7 @@
       }
     ],
     "isStillInObservation": false,
-    "keywords": [
-      "test"
-    ],
+    "keywords": [],
     "license": "EULA",
     "name": "Microsoft Word",
     "referencedSinceTime": 1728071637526,
@@ -53,7 +51,7 @@
       }
     },
     "testUrls": [],
-    "updateTime": 1728990418989,
+    "updateTime": 1728998906448,
     "versionMin": "1.6",
     "workshopUrls": [],
     "softwareExternalData": {
