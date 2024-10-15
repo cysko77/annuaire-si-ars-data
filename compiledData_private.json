@@ -4,7 +4,7 @@
     "name": "Microsoft Word",
     "description": "logiciel informatique",
     "referencedSinceTime": 1728071637526,
-    "updateTime": 1729023724072,
+    "updateTime": 1729025374503,
     "isStillInObservation": false,
     "doRespectRgaa": true,
     "isFromFrenchPublicService": false,
@@ -35,12 +35,7 @@
     ],
     "license": "EULA",
     "softwareType": {
-      "type": "desktop/mobile",
-      "os": {
-        "windows": false,
-        "linux": true,
-        "mac": false
-      }
+      "type": "cloud"
     },
     "versionMin": "1.6",
     "workshopUrls": [],

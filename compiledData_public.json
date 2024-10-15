@@ -45,15 +45,10 @@
     "name": "Microsoft Word",
     "referencedSinceTime": 1728071637526,
     "softwareType": {
-      "type": "desktop/mobile",
-      "os": {
-        "windows": false,
-        "linux": true,
-        "mac": false
-      }
+      "type": "cloud"
     },
     "testUrls": [],
-    "updateTime": 1729023724072,
+    "updateTime": 1729025374503,
     "versionMin": "1.6",
     "workshopUrls": [],
     "softwareExternalData": {
