@@ -2,7 +2,7 @@
     {
         "id": 1,
         "referencedSinceTime": 1728071637526,
-        "updateTime": 1729023684774,
+        "updateTime": 1729023724072,
         "isStillInObservation": false,
         "doRespectRgaa": true,
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
@@ -50,8 +50,7 @@
         },
         "externalId": "Q11261",
         "keywords": [
-            "test",
-            "tutu"
+            "test"
         ]
     },
     {
