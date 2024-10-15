@@ -158,7 +158,8 @@
     ],
     "isStillInObservation": false,
     "keywords": [
-      "ssds"
+      "ssds",
+      "te"
     ],
     "license": "GNU",
     "name": "Microsoft Excel",
@@ -172,7 +173,7 @@
       }
     },
     "testUrls": [],
-    "updateTime": 1728986148614,
+    "updateTime": 1729010305928,
     "versionMin": "1.6",
     "workshopUrls": [],
     "softwareExternalData": {
