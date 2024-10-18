@@ -51,7 +51,7 @@
     {
         "id": 2,
         "referencedSinceTime": 1728079134187,
-        "updateTime": 1729010334343,
+        "updateTime": 1729256572118,
         "isStillInObservation": false,
         "doRespectRgaa": false,
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
@@ -80,9 +80,7 @@
                 "processus": 8
             }
         ],
-        "similarSoftwareExternalDataIds": [
-            "Q3774510"
-        ],
+        "similarSoftwareExternalDataIds": [],
         "description": "Logiciel de tableur",
         "license": "GNU",
         "versionMin": "1.6",
