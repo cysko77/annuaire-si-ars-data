@@ -1,7 +1,7 @@
 [
     {
         "softwareId": 1,
-        "agentEmail": "cyrilles.kozlowski@ars.sante.fr",
+        "agentEmail": "cyrille.kozlowski@ars.sante.fr",
         "isExpert": true,
         "useCaseDescription": "test"
     }
