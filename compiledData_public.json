@@ -167,7 +167,7 @@
       "type": "cloud"
     },
     "testUrls": [],
-    "updateTime": 1729010334343,
+    "updateTime": 1729256572118,
     "versionMin": "1.6",
     "workshopUrls": [],
     "softwareExternalData": {
@@ -188,18 +188,7 @@
         }
       ]
     },
-    "similarExternalSoftwares": [
-      {
-        "externalId": "Q3774510",
-        "label": "LibreOffice Calc",
-        "description": {
-          "fr": "logiciel libre de tableur",
-          "en": "spreadsheet component of LibreOffice"
-        },
-        "isLibreSoftware": false,
-        "externalDataOrigin": "wikidata"
-      }
-    ],
+    "similarExternalSoftwares": [],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
     "instances": [

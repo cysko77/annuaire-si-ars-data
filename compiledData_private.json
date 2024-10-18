@@ -134,7 +134,7 @@
     "name": "Microsoft Excel",
     "description": "Logiciel de tableur",
     "referencedSinceTime": 1728079134187,
-    "updateTime": 1729010334343,
+    "updateTime": 1729256572118,
     "isStillInObservation": false,
     "doRespectRgaa": false,
     "isFromFrenchPublicService": false,
@@ -197,18 +197,7 @@
         }
       ]
     },
-    "similarExternalSoftwares": [
-      {
-        "externalId": "Q3774510",
-        "label": "LibreOffice Calc",
-        "description": {
-          "fr": "logiciel libre de tableur",
-          "en": "spreadsheet component of LibreOffice"
-        },
-        "isLibreSoftware": false,
-        "externalDataOrigin": "wikidata"
-      }
-    ],
+    "similarExternalSoftwares": [],
     "users": [],
     "referents": [],
     "instances": [
