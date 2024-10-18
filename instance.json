@@ -58,5 +58,17 @@
         "cloudValue": "scaleway",
         "referencedSinceTime": 1728999206844,
         "updateTime": 1728999206844
+    },
+    {
+        "id": 6,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "organization": "ARS Nouvelle-Aquitaine",
+        "mainSoftwareSillId": 2,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "secretaire",
+        "softwareType": "cloud",
+        "cloudValue": "cloud_temple-snc",
+        "referencedSinceTime": 1729256570781,
+        "updateTime": 1729256570781
     }
 ]
