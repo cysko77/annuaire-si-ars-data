@@ -202,6 +202,15 @@
     ],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
-    "instances": []
+    "instances": [
+      {
+        "id": 6,
+        "organization": "ARS Nouvelle-Aquitaine",
+        "targetAudience": "secretaire",
+        "softwareType": "cloud",
+        "cloudValue": "cloud_temple-snc",
+        "otherWikidataSoftwares": []
+      }
+    ]
   }
 ]
