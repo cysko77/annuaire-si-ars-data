@@ -76,7 +76,7 @@
     "referents": [
       {
         "email": "cyrille.kozlowski@ars.sante.fr",
-        "organization": "ARS",
+        "organization": "ARS IDF",
         "isExpert": true,
         "useCaseDescription": "test"
       }
