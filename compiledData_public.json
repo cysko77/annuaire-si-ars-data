@@ -17,7 +17,7 @@
       "scoreDisponibilite": 4,
       "scoreTracabilite": 3,
       "scoreConfidentialite": 2,
-      "scoreIntegrite": 1
+      "scoreIntegrite": 4
     },
     "scopes": [
       {
@@ -48,7 +48,7 @@
       "type": "cloud"
     },
     "testUrls": [],
-    "updateTime": 1729546144048,
+    "updateTime": 1729692189349,
     "versionMin": "1.6",
     "workshopUrls": [],
     "softwareExternalData": {
@@ -301,7 +301,6 @@
     ],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
-    "instances": [],
-    "status": "accepter"
+    "instances": []
   }
 ]

@@ -4,7 +4,7 @@
     "name": "Microsoft Word",
     "description": "logiciel informatique",
     "referencedSinceTime": 1728071637526,
-    "updateTime": 1729546144048,
+    "updateTime": 1729692189349,
     "isStillInObservation": false,
     "doRespectRgaa": true,
     "isFromFrenchPublicService": false,
@@ -13,7 +13,7 @@
       "scoreDisponibilite": 4,
       "scoreTracabilite": 3,
       "scoreConfidentialite": 2,
-      "scoreIntegrite": 1
+      "scoreIntegrite": 4
     },
     "scopes": [
       {
@@ -246,7 +246,6 @@
     "keywords": [
       "framework js"
     ],
-    "status": "accepter",
     "serviceProviders": [
       {
         "name": "Your Own Net",
