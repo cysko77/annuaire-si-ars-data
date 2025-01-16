@@ -732,6 +732,11 @@
         "cdlUrl": "https://comptoir-du-libre.org/fr/users/3304"
       },
       {
+        "name": "Docaposte",
+        "website": "https://www.docaposte.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4100"
+      },
+      {
         "name": "Champs-Libres",
         "website": "https://www.champs-libres.coop",
         "cdlUrl": "https://comptoir-du-libre.org/fr/users/991"
@@ -767,6 +772,11 @@
         "cdlUrl": "https://comptoir-du-libre.org/fr/users/165"
       },
       {
+        "name": "Keenobi",
+        "website": "https://keenobi.com/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4129"
+      },
+      {
         "name": "Liberasys",
         "website": "https://www.liberasys.com",
         "cdlUrl": "https://comptoir-du-libre.org/fr/users/2351"
@@ -793,7 +803,7 @@
       },
       {
         "name": "Worteks",
-        "website": "https://www.worteks.com/fr/",
+        "website": "https://www.worteks.com/",
         "cdlUrl": "https://comptoir-du-libre.org/fr/users/255"
       }
     ],
@@ -872,6 +882,8 @@
       },
       {
         "name": "Lan2Net",
+        "website": "https://www.lan2net.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4116",
         "cnllUrl": "https://annuaire.cnll.fr/societes/524457520",
         "siren": "524457520"
       },
@@ -879,11 +891,6 @@
         "name": "DEBAMAX",
         "cnllUrl": "https://annuaire.cnll.fr/societes/813965662",
         "siren": "813965662"
-      },
-      {
-        "name": "Wiki Valley",
-        "cnllUrl": "https://annuaire.cnll.fr/societes/821345345",
-        "siren": "821345345"
       },
       {
         "name": "INNO3",
@@ -1001,6 +1008,11 @@
         "cdlUrl": "https://comptoir-du-libre.org/fr/users/165"
       },
       {
+        "name": "Keenobi",
+        "website": "https://keenobi.com/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4129"
+      },
+      {
         "name": "TEICEE",
         "website": "https://www.teicee.com",
         "cdlUrl": "https://comptoir-du-libre.org/fr/users/3838"
@@ -1037,7 +1049,7 @@
       },
       {
         "name": "WORTEKS",
-        "website": "https://www.worteks.com/fr/",
+        "website": "https://www.worteks.com/",
         "cdlUrl": "https://comptoir-du-libre.org/fr/users/255",
         "cnllUrl": "https://annuaire.cnll.fr/societes/824429708",
         "siren": "824429708"
@@ -1210,7 +1222,7 @@
       },
       {
         "name": "Worteks",
-        "website": "https://www.worteks.com/fr/",
+        "website": "https://www.worteks.com/",
         "cdlUrl": "https://comptoir-du-libre.org/fr/users/255"
       }
     ],
@@ -1711,7 +1723,7 @@
       },
       {
         "name": "Worteks",
-        "website": "https://www.worteks.com/fr/",
+        "website": "https://www.worteks.com/",
         "cdlUrl": "https://comptoir-du-libre.org/fr/users/255"
       },
       {
@@ -2235,6 +2247,15 @@
           }
         },
         {
+          "id": 4126,
+          "url": "https://comptoir-du-libre.org/fr/users/4126",
+          "name": "Alpi",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://www.alpi40.fr"
+          }
+        },
+        {
           "id": 3396,
           "url": "https://comptoir-du-libre.org/fr/users/3396",
           "name": "Bertrand DAVID - CNRS - INSHS - Laboratoire ArAr",
@@ -2414,6 +2435,75 @@
       "developers": []
     },
     "similarExternalSoftwares": [],
+    "users": [],
+    "referents": [],
+    "instances": []
+  },
+  {
+    "id": 18,
+    "name": "Express.js",
+    "description": "framework Node.js",
+    "referencedSinceTime": 1737045076695,
+    "updateTime": 1737045076695,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 0,
+      "scoreTracabilite": 0,
+      "scoreConfidentialite": 0,
+      "scoreIntegrite": 0
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 1
+      },
+      {
+        "missions": "311",
+        "processus": 2
+      }
+    ],
+    "license": "MIT licence",
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": false,
+        "linux": true,
+        "mac": false
+      }
+    },
+    "versionMin": "4.21.2",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+    "keywords": [
+      "test"
+    ],
+    "status": "en cours",
+    "serviceProviders": [],
+    "softwareExternalData": {
+      "externalId": "Q16878131",
+      "externalDataOrigin": "wikidata",
+      "label": "Express.js",
+      "description": {
+        "fr": "framework Node.js",
+        "en": "JavaScript server-side/backend web framework for node.js"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/220px-Expressjs.png",
+      "sourceUrl": "https://github.com/expressjs/express",
+      "websiteUrl": "https://expressjs.com",
+      "license": "MIT licence",
+      "isLibreSoftware": true,
+      "developers": []
+    },
+    "similarExternalSoftwares": [],
+    "latestVersion": {
+      "semVer": "4.21.2",
+      "publicationTime": 1733438501000
+    },
     "users": [],
     "referents": [],
     "instances": []
