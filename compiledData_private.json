@@ -73,6 +73,16 @@
     },
     "users": [],
     "referents": [],
-    "instances": []
+    "instances": [
+      {
+        "id": 1,
+        "organization": "ARS La Réunion",
+        "targetAudience": "dfdf",
+        "softwareType": "desktop",
+        "osSelectValue": "linux",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
+      }
+    ]
   }
 ]
