@@ -82,5 +82,80 @@
       }
     ],
     "status": "en cours"
+  },
+  {
+    "serviceProviders": [
+      {
+        "name": "Obeo",
+        "website": "https://www.obeosoft.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/580"
+      }
+    ],
+    "categories": [],
+    "description": "éditeur de code multiplateforme gratuit développé par Microsoft",
+    "doRespectRgaa": false,
+    "id": 2,
+    "isFromFrenchPublicService": true,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 0,
+      "scoreTracabilite": 0,
+      "scoreConfidentialite": 0,
+      "scoreIntegrite": 0
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 2
+      }
+    ],
+    "isStillInObservation": false,
+    "keywords": [
+      "dev"
+    ],
+    "license": "MIT licence",
+    "name": "Visual Studio Code",
+    "referencedSinceTime": 1737720056671,
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": true,
+        "linux": true,
+        "mac": false
+      }
+    },
+    "testUrls": [],
+    "latestVersion": {
+      "semVer": "1.96.4",
+      "publicationTime": 1737069974000
+    },
+    "updateTime": 1737720056671,
+    "versionMin": "1.96.4",
+    "workshopUrls": [],
+    "softwareExternalData": {
+      "externalId": "Q19841877",
+      "externalDataOrigin": "wikidata",
+      "label": "Visual Studio Code",
+      "description": {
+        "fr": "éditeur de code multiplateforme gratuit développé par Microsoft",
+        "en": "source code editor developed by Microsoft"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/220px-Visual_Studio_Code_1.35_icon.svg.png",
+      "sourceUrl": "https://github.com/microsoft/vscode",
+      "websiteUrl": "https://code.visualstudio.com",
+      "license": "MIT licence",
+      "isLibreSoftware": true,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": [],
+    "status": "en cours"
   }
 ]
