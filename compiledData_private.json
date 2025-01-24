@@ -72,7 +72,14 @@
       "publicationTime": 1737069974000
     },
     "users": [],
-    "referents": [],
+    "referents": [
+      {
+        "email": "cyrille.kozlowski@ars.sante.fr",
+        "organization": "ILE-DE-FRANCE",
+        "isExpert": false,
+        "useCaseDescription": "wxsw"
+      }
+    ],
     "instances": [
       {
         "id": 1,

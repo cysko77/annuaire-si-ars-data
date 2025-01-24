@@ -70,7 +70,12 @@
     },
     "similarExternalSoftwares": [],
     "hasExpertReferent": false,
-    "userAndReferentCountByOrganization": {},
+    "userAndReferentCountByOrganization": {
+      "ILE-DE-FRANCE": {
+        "referentCount": 1,
+        "userCount": 0
+      }
+    },
     "instances": [
       {
         "id": 1,
