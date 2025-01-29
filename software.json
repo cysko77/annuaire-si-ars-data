@@ -1,1 +1,45 @@
-[]
+[
+    {
+        "id": 1,
+        "name": "Microsoft Word",
+        "description": "logiciel informatique",
+        "referencedSinceTime": 1738162772192,
+        "updateTime": 1738162772192,
+        "isStillInObservation": false,
+        "doRespectRgaa": true,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": true,
+        "dicts": {
+            "scoreDisponibilite": 3,
+            "scoreTracabilite": 4,
+            "scoreConfidentialite": 3,
+            "scoreIntegrite": 4
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q11261",
+        "license": "EULA",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": false,
+                "mac": false
+            }
+        },
+        "versionMin": "1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "keywords": [
+            "texte"
+        ],
+        "status": "en cours"
+    }
+]
