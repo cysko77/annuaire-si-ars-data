@@ -257,5 +257,161 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 4,
+    "name": "Microsoft Word",
+    "description": "logiciel informatique",
+    "referencedSinceTime": 1738144378706,
+    "updateTime": 1738144378706,
+    "isStillInObservation": false,
+    "doRespectRgaa": true,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 3,
+      "scoreTracabilite": 4,
+      "scoreConfidentialite": 2,
+      "scoreIntegrite": 3
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 1
+      }
+    ],
+    "license": "EULA",
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": false,
+        "linux": true,
+        "mac": false
+      }
+    },
+    "versionMin": "v1.7.2",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+    "keywords": [
+      "texte"
+    ],
+    "status": "en cours",
+    "serviceProviders": [
+      {
+        "name": "FactorFX",
+        "website": "https://www.factorfx.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3284"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q11261",
+      "externalDataOrigin": "wikidata",
+      "label": "Microsoft Word",
+      "description": {
+        "fr": "logiciel informatique",
+        "en": "word processor software part of Microsoft 365"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/220px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png",
+      "websiteUrl": "https://products.office.com/word",
+      "license": "EULA",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "comptoirDuLibreSoftware": {
+      "id": 102,
+      "created": "2017-03-10T16:43:18+00:00",
+      "modified": "2024-12-17T08:34:03+00:00",
+      "url": "https://comptoir-du-libre.org/fr/softwares/102",
+      "name": "LDAP Tool Box Self Service Password",
+      "licence": "GNU GPLv3",
+      "external_resources": {
+        "website": "https://ltb-project.org/documentation/self-service-password",
+        "repository": "https://github.com/ltb-project/self-service-password"
+      },
+      "providers": [
+        {
+          "id": 127,
+          "url": "https://comptoir-du-libre.org/fr/users/127",
+          "name": "Savoir-faire Linux",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://www.savoirfairelinux.com/"
+          }
+        },
+        {
+          "id": 132,
+          "url": "https://comptoir-du-libre.org/fr/users/132",
+          "name": "Syloé",
+          "type": "Company",
+          "external_resources": {
+            "website": "http://www.syloe.fr"
+          }
+        },
+        {
+          "id": 255,
+          "url": "https://comptoir-du-libre.org/fr/users/255",
+          "name": "Worteks",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://www.worteks.com/"
+          }
+        }
+      ],
+      "users": [
+        {
+          "id": 536,
+          "url": "https://comptoir-du-libre.org/fr/users/536",
+          "name": "ENSEA",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://www.ensea.fr"
+          }
+        },
+        {
+          "id": 140,
+          "url": "https://comptoir-du-libre.org/fr/users/140",
+          "name": "Montereau-Fault-Yonne",
+          "type": "Administration",
+          "external_resources": {
+            "website": "http://www.montereau77.fr"
+          }
+        },
+        {
+          "id": 675,
+          "url": "https://comptoir-du-libre.org/fr/users/675",
+          "name": "Morbihan énergies",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://morbihan-energies.fr"
+          }
+        },
+        {
+          "id": 16,
+          "url": "https://comptoir-du-libre.org/fr/users/16",
+          "name": "Ville Mions (69) ",
+          "type": "Administration",
+          "external_resources": {
+            "website": "http://www.mions.fr/"
+          }
+        }
+      ],
+      "logoUrl": "https://comptoir-du-libre.org//img/files/Softwares/102/photo/avatar/ltb-logo.png",
+      "keywords": []
+    },
+    "latestVersion": {
+      "semVer": "v1.7.2",
+      "publicationTime": 1736438644000
+    },
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
