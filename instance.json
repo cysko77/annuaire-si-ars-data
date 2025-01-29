@@ -1,14 +1,1 @@
-[
-    {
-        "id": 1,
-        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
-        "organization": "ARS La Réunion",
-        "mainSoftwareSillId": 1,
-        "otherSoftwareWikidataIds": [],
-        "targetAudience": "dfdf",
-        "softwareType": "desktop",
-        "osSelectValue": "linux",
-        "referencedSinceTime": 1737719951666,
-        "updateTime": 1737719951666
-    }
-]
+[]
