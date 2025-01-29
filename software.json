@@ -129,5 +129,49 @@
             "dfdf"
         ],
         "status": "en cours"
+    },
+    {
+        "id": 4,
+        "name": "Microsoft Word",
+        "description": "logiciel informatique",
+        "referencedSinceTime": 1738144378706,
+        "updateTime": 1738144378706,
+        "isStillInObservation": false,
+        "doRespectRgaa": true,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": true,
+        "dicts": {
+            "scoreDisponibilite": 3,
+            "scoreTracabilite": 4,
+            "scoreConfidentialite": 2,
+            "scoreIntegrite": 3
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q11261",
+        "comptoirDuLibreId": 102,
+        "license": "EULA",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": false,
+                "linux": true,
+                "mac": false
+            }
+        },
+        "versionMin": "v1.7.2",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "keywords": [
+            "texte"
+        ],
+        "status": "en cours"
     }
 ]
