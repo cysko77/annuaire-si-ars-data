@@ -5,6 +5,11 @@
         "name": "Libre en Ariège",
         "website": "https://www.libre-en-ariege.fr/",
         "cdlUrl": "https://comptoir-du-libre.org/fr/users/3999"
+      },
+      {
+        "name": "Motot Thierry",
+        "website": "https://www.motot.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3711"
       }
     ],
     "categories": [],
@@ -56,6 +61,84 @@
       "websiteUrl": "https://products.office.com/word",
       "license": "EULA",
       "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": [],
+    "status": "accepter"
+  },
+  {
+    "serviceProviders": [
+      {
+        "name": "Obeo",
+        "website": "https://www.obeosoft.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/580"
+      }
+    ],
+    "categories": [],
+    "description": "éditeur de code multiplateforme gratuit développé par Microsoft",
+    "doRespectRgaa": true,
+    "id": 2,
+    "isFromFrenchPublicService": true,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 0,
+      "scoreTracabilite": 0,
+      "scoreConfidentialite": 0,
+      "scoreIntegrite": 0
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 1
+      }
+    ],
+    "isStillInObservation": false,
+    "keywords": [
+      "dev"
+    ],
+    "license": "MIT licence",
+    "name": "Visual Studio Code",
+    "referencedSinceTime": 1747333075188,
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": true,
+        "linux": false,
+        "mac": false
+      }
+    },
+    "testUrls": [],
+    "latestVersion": {
+      "semVer": "1.100.2",
+      "publicationTime": 1747329525000
+    },
+    "updateTime": 1747333075188,
+    "versionMin": "1.100.2",
+    "workshopUrls": [],
+    "softwareExternalData": {
+      "externalId": "Q19841877",
+      "externalDataOrigin": "wikidata",
+      "label": {
+        "fr": "Visual Studio Code",
+        "en": "VS code"
+      },
+      "description": {
+        "fr": "éditeur de code multiplateforme gratuit développé par Microsoft",
+        "en": "source code editor developed by Microsoft"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/250px-Visual_Studio_Code_1.35_icon.svg.png",
+      "sourceUrl": "https://github.com/microsoft/vscode",
+      "websiteUrl": "https://code.visualstudio.com",
+      "license": "MIT licence",
+      "isLibreSoftware": true,
       "developers": [
         {
           "name": "Microsoft",

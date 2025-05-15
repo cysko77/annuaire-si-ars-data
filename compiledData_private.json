@@ -44,6 +44,11 @@
         "name": "Libre en Ariège",
         "website": "https://www.libre-en-ariege.fr/",
         "cdlUrl": "https://comptoir-du-libre.org/fr/users/3999"
+      },
+      {
+        "name": "Motot Thierry",
+        "website": "https://www.motot.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3711"
       }
     ],
     "softwareExternalData": {
@@ -66,6 +71,85 @@
       ]
     },
     "similarExternalSoftwares": [],
+    "users": [],
+    "referents": [],
+    "instances": []
+  },
+  {
+    "id": 2,
+    "name": "Visual Studio Code",
+    "description": "éditeur de code multiplateforme gratuit développé par Microsoft",
+    "referencedSinceTime": 1747333075188,
+    "updateTime": 1747333075188,
+    "isStillInObservation": false,
+    "doRespectRgaa": true,
+    "isFromFrenchPublicService": true,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 0,
+      "scoreTracabilite": 0,
+      "scoreConfidentialite": 0,
+      "scoreIntegrite": 0
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 1
+      }
+    ],
+    "license": "MIT licence",
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": true,
+        "linux": false,
+        "mac": false
+      }
+    },
+    "versionMin": "1.100.2",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+    "keywords": [
+      "dev"
+    ],
+    "status": "accepter",
+    "serviceProviders": [
+      {
+        "name": "Obeo",
+        "website": "https://www.obeosoft.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/580"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q19841877",
+      "externalDataOrigin": "wikidata",
+      "label": {
+        "fr": "Visual Studio Code",
+        "en": "VS code"
+      },
+      "description": {
+        "fr": "éditeur de code multiplateforme gratuit développé par Microsoft",
+        "en": "source code editor developed by Microsoft"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/250px-Visual_Studio_Code_1.35_icon.svg.png",
+      "sourceUrl": "https://github.com/microsoft/vscode",
+      "websiteUrl": "https://code.visualstudio.com",
+      "license": "MIT licence",
+      "isLibreSoftware": true,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "latestVersion": {
+      "semVer": "1.100.2",
+      "publicationTime": 1747329525000
+    },
     "users": [],
     "referents": [],
     "instances": []
