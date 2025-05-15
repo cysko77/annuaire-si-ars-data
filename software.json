@@ -44,12 +44,14 @@
     },
     {
         "id": 2,
-        "name": "Visual Studio Code",
-        "description": "éditeur de code multiplateforme gratuit développé par Microsoft",
         "referencedSinceTime": 1747333075188,
-        "updateTime": 1747333075188,
+        "updateTime": 1747334444228,
         "isStillInObservation": false,
         "doRespectRgaa": true,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "categories": [],
+        "testUrls": [],
+        "workshopUrls": [],
         "isFromFrenchPublicService": true,
         "isSoftwareHasHealthData": true,
         "dicts": {
@@ -65,8 +67,10 @@
             }
         ],
         "similarSoftwareExternalDataIds": [],
-        "externalId": "Q19841877",
+        "description": "éditeur de code multiplateforme gratuit développé par Microsoft",
         "license": "MIT licence",
+        "versionMin": "1.100.2",
+        "name": "Visual Studio Code",
         "softwareType": {
             "type": "desktop/mobile",
             "os": {
@@ -75,11 +79,7 @@
                 "mac": false
             }
         },
-        "versionMin": "1.100.2",
-        "workshopUrls": [],
-        "testUrls": [],
-        "categories": [],
-        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "externalId": "Q19841877",
         "keywords": [
             "dev"
         ],
