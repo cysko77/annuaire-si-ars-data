@@ -89,12 +89,14 @@
     },
     {
         "id": 3,
-        "name": "toto",
-        "description": "dev",
         "referencedSinceTime": 1747334195257,
-        "updateTime": 1747334195257,
+        "updateTime": 1747334995669,
         "isStillInObservation": false,
         "doRespectRgaa": true,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "categories": [],
+        "testUrls": [],
+        "workshopUrls": [],
         "isFromFrenchPublicService": false,
         "isSoftwareHasHealthData": true,
         "dicts": {
@@ -110,7 +112,10 @@
             }
         ],
         "similarSoftwareExternalDataIds": [],
+        "description": "dev",
         "license": "gnu",
+        "versionMin": "2",
+        "name": "toto",
         "softwareType": {
             "type": "desktop/mobile",
             "os": {
@@ -119,11 +124,6 @@
                 "mac": false
             }
         },
-        "versionMin": "2",
-        "workshopUrls": [],
-        "testUrls": [],
-        "categories": [],
-        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
         "keywords": [
             "dev"
         ],
