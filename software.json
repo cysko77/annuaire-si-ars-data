@@ -45,7 +45,7 @@
     {
         "id": 2,
         "referencedSinceTime": 1747333075188,
-        "updateTime": 1747334444228,
+        "updateTime": 1747334471147,
         "isStillInObservation": false,
         "doRespectRgaa": true,
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
@@ -66,7 +66,9 @@
                 "processus": 1
             }
         ],
-        "similarSoftwareExternalDataIds": [],
+        "similarSoftwareExternalDataIds": [
+            "Q2115"
+        ],
         "description": "éditeur de code multiplateforme gratuit développé par Microsoft",
         "license": "MIT licence",
         "versionMin": "1.100.2",
