@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "softwareId": 1,
+        "agentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "isExpert": true,
+        "useCaseDescription": "dev"
+    }
+]
