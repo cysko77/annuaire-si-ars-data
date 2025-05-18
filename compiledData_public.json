@@ -69,8 +69,13 @@
       ]
     },
     "similarExternalSoftwares": [],
-    "hasExpertReferent": false,
-    "userAndReferentCountByOrganization": {},
+    "hasExpertReferent": true,
+    "userAndReferentCountByOrganization": {
+      "ILE-DE-FRANCE": {
+        "referentCount": 1,
+        "userCount": 0
+      }
+    },
     "instances": [],
     "status": "accepter"
   },

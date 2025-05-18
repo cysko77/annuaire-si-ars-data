@@ -72,7 +72,14 @@
     },
     "similarExternalSoftwares": [],
     "users": [],
-    "referents": [],
+    "referents": [
+      {
+        "email": "cyrille.kozlowski@ars.sante.fr",
+        "organization": "ILE-DE-FRANCE",
+        "isExpert": true,
+        "useCaseDescription": "dev"
+      }
+    ],
     "instances": []
   },
   {
