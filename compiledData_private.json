@@ -554,5 +554,241 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 5,
+    "name": "neovim",
+    "description": "éditeur de texte basé sur Vim",
+    "referencedSinceTime": 1747603238586,
+    "updateTime": 1747603238586,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 0,
+      "scoreTracabilite": 0,
+      "scoreConfidentialite": 0,
+      "scoreIntegrite": 0
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 1
+      },
+      {
+        "missions": "311",
+        "processus": 2
+      }
+    ],
+    "license": "Apache License v2.0",
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": true,
+        "linux": true,
+        "mac": false
+      }
+    },
+    "versionMin": "nightly",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+    "keywords": [
+      "dev"
+    ],
+    "status": "accepter",
+    "serviceProviders": [
+      {
+        "name": "Oziolab",
+        "website": "https://www.oziolab.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4075"
+      },
+      {
+        "name": "Boscop",
+        "website": "https://www.boscop.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2225"
+      },
+      {
+        "name": "YPSI",
+        "website": "https://www.ypsi.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3280"
+      },
+      {
+        "name": "Probesys",
+        "website": "https://www.probesys.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/398"
+      },
+      {
+        "name": "Ionzee",
+        "website": "",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3681"
+      },
+      {
+        "name": "Data Bene",
+        "website": "https://data-bene.io",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3188"
+      },
+      {
+        "name": "2i2L",
+        "website": "https://www.2i2l.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/57"
+      },
+      {
+        "name": "Bearstech",
+        "website": "https://bearstech.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3960"
+      },
+      {
+        "name": "Ethicsys",
+        "website": "https://www.ethicsys.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3304"
+      },
+      {
+        "name": "Docaposte",
+        "website": "https://www.docaposte.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4100"
+      },
+      {
+        "name": "Champs-Libres",
+        "website": "https://www.champs-libres.coop",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/991"
+      },
+      {
+        "name": "Ouidou",
+        "website": "https://www.ouidou.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3857"
+      },
+      {
+        "name": "Your Own Net",
+        "website": "https://yourownnet.net",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/162"
+      },
+      {
+        "name": "OpsVox",
+        "website": "https://opsvox.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3832"
+      },
+      {
+        "name": "Talan",
+        "website": "https://talan.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4021"
+      },
+      {
+        "name": "SIGMAZ Consilium",
+        "website": "https://sigmaz-consilium.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3893"
+      },
+      {
+        "name": "BeeZim",
+        "website": "https://www.beezim.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3445"
+      },
+      {
+        "name": "APLOSE",
+        "website": "https://www.aplose.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/165"
+      },
+      {
+        "name": "Keenobi",
+        "website": "https://keenobi.com/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4129"
+      },
+      {
+        "name": "Liberasys",
+        "website": "https://www.liberasys.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2351"
+      },
+      {
+        "name": "TEICEE",
+        "website": "https://www.teicee.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3838"
+      },
+      {
+        "name": "AUKFOOD",
+        "website": "https://www.aukfood.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3288"
+      },
+      {
+        "name": "JECI",
+        "website": "https://jeci.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3449"
+      },
+      {
+        "name": "Julien Palard",
+        "website": "https://mdk.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3408"
+      },
+      {
+        "name": "Worteks",
+        "website": "https://www.worteks.com/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/255"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q28975246",
+      "externalDataOrigin": "wikidata",
+      "label": "neovim",
+      "description": {
+        "fr": "éditeur de texte basé sur Vim",
+        "en": "modal text editor based on Vim, focused on improving extensibility and maintainability"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Neovim-logo.svg/250px-Neovim-logo.svg.png",
+      "framaLibreId": "neovim",
+      "sourceUrl": "https://github.com/neovim/neovim",
+      "websiteUrl": "https://neovim.io/",
+      "license": "Apache License v2.0",
+      "isLibreSoftware": false,
+      "developers": []
+    },
+    "similarExternalSoftwares": [
+      {
+        "externalId": "Q19841877",
+        "label": {
+          "fr": "Visual Studio Code",
+          "en": "VS code"
+        },
+        "description": {
+          "fr": "éditeur de code multiplateforme gratuit développé par Microsoft",
+          "en": "source code editor developed by Microsoft"
+        },
+        "isLibreSoftware": true,
+        "externalDataOrigin": "wikidata"
+      }
+    ],
+    "comptoirDuLibreSoftware": {
+      "id": 578,
+      "created": "2023-01-18T07:55:59+00:00",
+      "modified": "2023-01-18T07:55:59+00:00",
+      "url": "https://comptoir-du-libre.org/fr/softwares/578",
+      "name": "neovim",
+      "licence": "Apache License 2.0",
+      "external_resources": {
+        "website": "https://neovim.io/",
+        "repository": "https://github.com/neovim/neovim"
+      },
+      "providers": [],
+      "users": [
+        {
+          "id": 3627,
+          "url": "https://comptoir-du-libre.org/fr/users/3627",
+          "name": "Quentin Leroy",
+          "type": "Administration",
+          "external_resources": {
+            "website": ""
+          }
+        }
+      ],
+      "logoUrl": "https://comptoir-du-libre.org//img/files/Softwares/neovim/avatar/neovim-logo-300x87.png",
+      "keywords": []
+    },
+    "latestVersion": {
+      "semVer": "nightly",
+      "publicationTime": 1747545162000
+    },
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
