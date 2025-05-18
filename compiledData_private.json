@@ -4,13 +4,13 @@
     "name": "Microsoft Word",
     "description": "logiciel informatique",
     "referencedSinceTime": 1738162772192,
-    "updateTime": 1738162772192,
+    "updateTime": 1747585158407,
     "isStillInObservation": false,
     "doRespectRgaa": true,
     "isFromFrenchPublicService": false,
     "isSoftwareHasHealthData": true,
     "dicts": {
-      "scoreDisponibilite": 3,
+      "scoreDisponibilite": 2,
       "scoreTracabilite": 4,
       "scoreConfidentialite": 3,
       "scoreIntegrite": 4

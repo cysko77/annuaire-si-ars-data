@@ -19,7 +19,7 @@
     "isFromFrenchPublicService": false,
     "isSoftwareHasHealthData": true,
     "dicts": {
-      "scoreDisponibilite": 3,
+      "scoreDisponibilite": 2,
       "scoreTracabilite": 4,
       "scoreConfidentialite": 3,
       "scoreIntegrite": 4
@@ -46,7 +46,7 @@
       }
     },
     "testUrls": [],
-    "updateTime": 1738162772192,
+    "updateTime": 1747585158407,
     "versionMin": "1",
     "workshopUrls": [],
     "softwareExternalData": {
