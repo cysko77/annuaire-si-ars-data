@@ -417,5 +417,55 @@
             "test"
         ],
         "status": "en cours"
+    },
+    {
+        "id": 5,
+        "name": "neovim",
+        "description": "éditeur de texte basé sur Vim",
+        "referencedSinceTime": 1747603238586,
+        "updateTime": 1747603238586,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 0,
+            "scoreTracabilite": 0,
+            "scoreConfidentialite": 0,
+            "scoreIntegrite": 0
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            },
+            {
+                "missions": "311",
+                "processus": 2
+            }
+        ],
+        "similarSoftwareExternalDataIds": [
+            "Q19841877"
+        ],
+        "externalId": "Q28975246",
+        "comptoirDuLibreId": 578,
+        "license": "Apache License v2.0",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": true,
+                "mac": false
+            }
+        },
+        "versionMin": "nightly",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "keywords": [
+            "dev"
+        ],
+        "status": "accepter"
     }
 ]
