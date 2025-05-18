@@ -80,15 +80,15 @@
     "name": "Visual Studio Code",
     "description": "éditeur de code multiplateforme gratuit développé par Microsoft",
     "referencedSinceTime": 1747333075188,
-    "updateTime": 1747334471147,
+    "updateTime": 1747584870408,
     "isStillInObservation": false,
     "doRespectRgaa": true,
     "isFromFrenchPublicService": true,
     "isSoftwareHasHealthData": true,
     "dicts": {
-      "scoreDisponibilite": 0,
-      "scoreTracabilite": 0,
-      "scoreConfidentialite": 0,
+      "scoreDisponibilite": 3,
+      "scoreTracabilite": 2,
+      "scoreConfidentialite": 1,
       "scoreIntegrite": 0
     },
     "scopes": [
