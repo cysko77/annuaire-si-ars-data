@@ -1,16 +1,18 @@
 [
     {
         "id": 1,
-        "name": "Microsoft Word",
-        "description": "logiciel informatique",
         "referencedSinceTime": 1738162772192,
-        "updateTime": 1738162772192,
+        "updateTime": 1747585158407,
         "isStillInObservation": false,
         "doRespectRgaa": true,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "categories": [],
+        "testUrls": [],
+        "workshopUrls": [],
         "isFromFrenchPublicService": false,
         "isSoftwareHasHealthData": true,
         "dicts": {
-            "scoreDisponibilite": 3,
+            "scoreDisponibilite": 2,
             "scoreTracabilite": 4,
             "scoreConfidentialite": 3,
             "scoreIntegrite": 4
@@ -22,8 +24,10 @@
             }
         ],
         "similarSoftwareExternalDataIds": [],
-        "externalId": "Q11261",
+        "description": "logiciel informatique",
         "license": "EULA",
+        "versionMin": "1",
+        "name": "Microsoft Word",
         "softwareType": {
             "type": "desktop/mobile",
             "os": {
@@ -32,11 +36,7 @@
                 "mac": false
             }
         },
-        "versionMin": "1",
-        "workshopUrls": [],
-        "testUrls": [],
-        "categories": [],
-        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "externalId": "Q11261",
         "keywords": [
             "texte"
         ],
