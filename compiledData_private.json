@@ -80,8 +80,7 @@
         "id": 1,
         "organization": "ARS Île-de-France",
         "targetAudience": "agent",
-        "softwareType": "desktop",
-        "osSelectValue": "windows",
+        "softwareType": "stack",
         "scopes": [
           {
             "missions": "311",
