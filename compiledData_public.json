@@ -323,6 +323,14 @@
       {
         "missions": "313",
         "processus": 56
+      },
+      {
+        "missions": "313",
+        "processus": 64
+      },
+      {
+        "missions": "313",
+        "processus": 65
       }
     ],
     "isStillInObservation": false,
@@ -345,7 +353,7 @@
       "semVer": "1.100.2",
       "publicationTime": 1747329525000
     },
-    "updateTime": 1747601425158,
+    "updateTime": 1747915617921,
     "versionMin": "1.100.2",
     "workshopUrls": [],
     "softwareExternalData": {
@@ -371,21 +379,7 @@
         }
       ]
     },
-    "similarExternalSoftwares": [
-      {
-        "externalId": "Q2115",
-        "label": {
-          "fr": "Extensible Markup Language",
-          "en": "XML"
-        },
-        "description": {
-          "fr": "langage informatique de balisage générique dérivé du SGML",
-          "en": "markup language by the W3C for encoding of data"
-        },
-        "isLibreSoftware": false,
-        "externalDataOrigin": "wikidata"
-      }
-    ],
+    "similarExternalSoftwares": [],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
     "instances": [

@@ -87,7 +87,7 @@
     "name": "Visual Studio Code",
     "description": "éditeur de code multiplateforme gratuit développé par Microsoft",
     "referencedSinceTime": 1747333075188,
-    "updateTime": 1747601425158,
+    "updateTime": 1747915617921,
     "isStillInObservation": false,
     "doRespectRgaa": true,
     "isFromFrenchPublicService": true,
@@ -322,6 +322,14 @@
       {
         "missions": "313",
         "processus": 56
+      },
+      {
+        "missions": "313",
+        "processus": 64
+      },
+      {
+        "missions": "313",
+        "processus": 65
       }
     ],
     "license": "MIT licence",
@@ -372,21 +380,7 @@
         }
       ]
     },
-    "similarExternalSoftwares": [
-      {
-        "externalId": "Q2115",
-        "label": {
-          "fr": "Extensible Markup Language",
-          "en": "XML"
-        },
-        "description": {
-          "fr": "langage informatique de balisage générique dérivé du SGML",
-          "en": "markup language by the W3C for encoding of data"
-        },
-        "isLibreSoftware": false,
-        "externalDataOrigin": "wikidata"
-      }
-    ],
+    "similarExternalSoftwares": [],
     "latestVersion": {
       "semVer": "1.100.2",
       "publicationTime": 1747329525000
