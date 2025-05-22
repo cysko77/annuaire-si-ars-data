@@ -91,6 +91,20 @@
           }
         ],
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 2,
+        "organization": "ARS Île-de-France",
+        "targetAudience": "dsdsd",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "scopes": [
+          {
+            "missions": "311",
+            "processus": 1
+          }
+        ],
+        "otherWikidataSoftwares": []
       }
     ],
     "status": "accepter"
