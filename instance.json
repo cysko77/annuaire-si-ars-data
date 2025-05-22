@@ -20,5 +20,23 @@
         ],
         "referencedSinceTime": 1747931481399,
         "updateTime": 1747933427089
+    },
+    {
+        "id": 2,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "organization": "ARS Île-de-France",
+        "mainSoftwareSillId": 1,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "dsdsd",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "referencedSinceTime": 1747933726226,
+        "updateTime": 1747933726226,
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            }
+        ]
     }
 ]
