@@ -393,7 +393,17 @@
     },
     "users": [],
     "referents": [],
-    "instances": []
+    "instances": [
+      {
+        "id": 1,
+        "organization": "ARS Île-de-France",
+        "targetAudience": "agent",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
+      }
+    ]
   },
   {
     "id": 3,
