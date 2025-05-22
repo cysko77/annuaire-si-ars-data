@@ -60,7 +60,16 @@
             "scoreConfidentialite": 1,
             "scoreIntegrite": 0
         },
-        "scopes": [],
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            },
+            {
+                "missions": "311",
+                "processus": 2
+            }
+        ],
         "similarSoftwareExternalDataIds": [],
         "description": "éditeur de code multiplateforme gratuit développé par Microsoft",
         "license": "MIT licence",
