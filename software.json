@@ -1,1 +1,45 @@
-[]
+[
+    {
+        "id": 1,
+        "name": "Visual Studio Code",
+        "description": "éditeur de code multiplateforme gratuit développé par Microsoft",
+        "referencedSinceTime": 1747931246224,
+        "updateTime": 1747931246224,
+        "isStillInObservation": false,
+        "doRespectRgaa": true,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": true,
+        "dicts": {
+            "scoreDisponibilite": 4,
+            "scoreTracabilite": 2,
+            "scoreConfidentialite": 1,
+            "scoreIntegrite": 0
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q19841877",
+        "license": "MIT licence",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": true,
+                "mac": false
+            }
+        },
+        "versionMin": "1.100.2",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "keywords": [
+            "dev"
+        ],
+        "status": "accepter"
+    }
+]
