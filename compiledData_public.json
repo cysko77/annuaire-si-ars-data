@@ -82,8 +82,12 @@
         "osSelectValue": "windows",
         "scopes": [
           {
-            "missions": "313",
-            "processus": 53
+            "missions": "311",
+            "processus": 2
+          },
+          {
+            "missions": "312",
+            "processus": 1
           }
         ],
         "otherWikidataSoftwares": []
