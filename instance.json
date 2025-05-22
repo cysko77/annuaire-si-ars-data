@@ -21,5 +21,17 @@
         "softwareType": "stack",
         "referencedSinceTime": 1747921038564,
         "updateTime": 1747921038564
+    },
+    {
+        "id": 3,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "organization": "ARS Île-de-France",
+        "mainSoftwareSillId": 2,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "agent",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "referencedSinceTime": 1747922575402,
+        "updateTime": 1747922575402
     }
 ]
