@@ -78,7 +78,8 @@
         "id": 1,
         "organization": "ARS Île-de-France",
         "targetAudience": "agent",
-        "softwareType": "stack",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
         "scopes": [
           {
             "missions": "311",
@@ -89,7 +90,16 @@
             "processus": 1
           }
         ],
-        "otherWikidataSoftwares": []
+        "otherWikidataSoftwares": [
+          {
+            "externalId": "Q42916195",
+            "label": "Keycloak",
+            "description": {
+              "fr": "Logiciel de fédération d'identité",
+              "en": "open-source identity and access management"
+            }
+          }
+        ]
       },
       {
         "id": 2,
