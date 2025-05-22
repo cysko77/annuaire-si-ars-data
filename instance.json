@@ -5,8 +5,7 @@
         "mainSoftwareSillId": 1,
         "organization": "ARS Île-de-France",
         "otherSoftwareWikidataIds": [],
-        "osSelectValue": "windows",
-        "softwareType": "desktop",
+        "softwareType": "stack",
         "targetAudience": "agent",
         "scopes": [
             {
@@ -19,7 +18,7 @@
             }
         ],
         "referencedSinceTime": 1747931481399,
-        "updateTime": 1747935882927
+        "updateTime": 1747937496941
     },
     {
         "id": 2,
