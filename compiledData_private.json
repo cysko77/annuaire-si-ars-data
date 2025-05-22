@@ -396,6 +396,14 @@
         "osSelectValue": "windows",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
+      },
+      {
+        "id": 2,
+        "organization": "ARS Île-de-France",
+        "targetAudience": "sd",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
       }
     ]
   },
