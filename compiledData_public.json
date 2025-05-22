@@ -397,6 +397,14 @@
         "targetAudience": "sd",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 3,
+        "organization": "ARS Île-de-France",
+        "targetAudience": "agent",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "otherWikidataSoftwares": []
       }
     ],
     "status": "accepter"
