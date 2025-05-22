@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "id": 1,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "organization": "ARS Île-de-France",
+        "mainSoftwareSillId": 2,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "agent",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "referencedSinceTime": 1747915614004,
+        "updateTime": 1747915614004
+    }
+]
