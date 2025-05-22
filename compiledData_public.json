@@ -114,6 +114,28 @@
           }
         ],
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 3,
+        "organization": "ARS Île-de-France",
+        "targetAudience": "tout le monde",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "scopes": [
+          {
+            "missions": "311",
+            "processus": 1
+          },
+          {
+            "missions": "312",
+            "processus": 2
+          },
+          {
+            "missions": "814",
+            "processus": 8
+          }
+        ],
+        "otherWikidataSoftwares": []
       }
     ],
     "status": "accepter"
