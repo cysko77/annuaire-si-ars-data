@@ -10,11 +10,15 @@
         "targetAudience": "agent",
         "scopes": [
             {
-                "missions": "313",
-                "processus": 53
+                "missions": "311",
+                "processus": 2
+            },
+            {
+                "missions": "312",
+                "processus": 1
             }
         ],
         "referencedSinceTime": 1747931481399,
-        "updateTime": 1747932510842
+        "updateTime": 1747933427089
     }
 ]
