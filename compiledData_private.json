@@ -85,11 +85,31 @@
         "scopes": [
           {
             "missions": "311",
+            "processus": 1
+          },
+          {
+            "missions": "311",
             "processus": 2
           },
           {
+            "missions": "311",
+            "processus": 3
+          },
+          {
             "missions": "312",
-            "processus": 1
+            "processus": 8
+          },
+          {
+            "missions": "312",
+            "processus": 9
+          },
+          {
+            "missions": "312",
+            "processus": 10
+          },
+          {
+            "missions": "312",
+            "processus": 11
           }
         ],
         "otherWikidataSoftwares": [
