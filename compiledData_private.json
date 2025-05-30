@@ -136,7 +136,16 @@
                 "id": 3,
                 "organization": "ARS Île-de-France",
                 "targetAudience": "tout le monde",
-                "softwareType": "desktop",
+                "softwareType": {
+                    "type": "desktop/mobile",
+                    "os": {
+                        "windows": true,
+                        "linux": true,
+                        "mac": true,
+                        "ios": false,
+                        "android": false
+                    }
+                },
                 "scopes": [
                     {
                         "missions": "311",
