@@ -399,6 +399,20 @@
                 ],
                 "otherWikidataSoftwares": [],
                 "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
+            },
+            {
+                "id": 11,
+                "organization": "ARS Guyane",
+                "targetAudience": "sd",
+                "softwareType": "cloud",
+                "scopes": [
+                    {
+                        "missions": "311",
+                        "processus": 1
+                    }
+                ],
+                "otherWikidataSoftwares": [],
+                "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
             }
         ]
     }
