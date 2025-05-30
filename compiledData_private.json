@@ -254,7 +254,9 @@
                 "id": 7,
                 "organization": "ARS Île-de-France",
                 "targetAudience": "dfdfdfdfdf",
-                "softwareType": "desktop",
+                "softwareType": {
+                    "type": "cloud"
+                },
                 "scopes": [
                     {
                         "missions": "311",
