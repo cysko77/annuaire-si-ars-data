@@ -384,7 +384,16 @@
         "mainSoftwareSillId": 1,
         "organization": "ARS Provence-Alpes-Côte d'Azur",
         "otherSoftwareWikidataIds": [],
-        "softwareType": "cloud",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": true,
+                "mac": false,
+                "ios": false,
+                "android": false
+            }
+        },
         "targetAudience": "jhg",
         "scopes": [
             {
@@ -397,6 +406,6 @@
             }
         ],
         "referencedSinceTime": 1748638496788,
-        "updateTime": 1748638821164
+        "updateTime": 1748648135007
     }
 ]
