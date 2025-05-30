@@ -350,5 +350,22 @@
                 "processus": 2
             }
         ]
+    },
+    {
+        "id": 11,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "organization": "ARS Guyane",
+        "mainSoftwareSillId": 1,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "sd",
+        "softwareType": "cloud",
+        "referencedSinceTime": 1748633635402,
+        "updateTime": 1748633635402,
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            }
+        ]
     }
 ]
