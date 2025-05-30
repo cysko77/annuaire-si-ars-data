@@ -130,7 +130,7 @@
                 "osSelectValue": {
                     "type": "desktop/mobile",
                     "os": {
-                        "windows": true,
+                        "windows": false,
                         "linux": false,
                         "mac": false
                     }
