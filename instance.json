@@ -367,5 +367,36 @@
                 "processus": 1
             }
         ]
+    },
+    {
+        "id": 12,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "organization": "ARS Provence-Alpes-Côte d'Azur",
+        "mainSoftwareSillId": 1,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "jhg",
+        "softwareType": "desktop",
+        "osSelectValue": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": true,
+                "mac": false,
+                "ios": false,
+                "android": false
+            }
+        },
+        "referencedSinceTime": 1748638496788,
+        "updateTime": 1748638496788,
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            },
+            {
+                "missions": "311",
+                "processus": 2
+            }
+        ]
     }
 ]
