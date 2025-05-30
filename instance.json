@@ -8,8 +8,8 @@
         "osSelectValue": {
             "type": "desktop/mobile",
             "os": {
-                "windows": false,
-                "linux": false,
+                "windows": true,
+                "linux": true,
                 "mac": false
             }
         },
@@ -46,7 +46,7 @@
             }
         ],
         "referencedSinceTime": 1747931481399,
-        "updateTime": 1748608365068
+        "updateTime": 1748609131541
     },
     {
         "id": 2,
