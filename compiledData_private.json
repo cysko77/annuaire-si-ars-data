@@ -381,6 +381,24 @@
                 ],
                 "otherWikidataSoftwares": [],
                 "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
+            },
+            {
+                "id": 10,
+                "organization": "ARS Bretagne",
+                "targetAudience": "fdf",
+                "softwareType": "cloud",
+                "scopes": [
+                    {
+                        "missions": "311",
+                        "processus": 1
+                    },
+                    {
+                        "missions": "311",
+                        "processus": 2
+                    }
+                ],
+                "otherWikidataSoftwares": [],
+                "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
             }
         ]
     }
