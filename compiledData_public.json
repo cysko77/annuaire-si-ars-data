@@ -326,7 +326,16 @@
                 "id": 11,
                 "organization": "ARS Guyane",
                 "targetAudience": "sd",
-                "softwareType": "desktop",
+                "softwareType": {
+                    "type": "desktop/mobile",
+                    "os": {
+                        "windows": true,
+                        "linux": false,
+                        "mac": false,
+                        "ios": true,
+                        "android": true
+                    }
+                },
                 "scopes": [
                     {
                         "missions": "311",
