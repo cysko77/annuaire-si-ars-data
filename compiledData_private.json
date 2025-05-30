@@ -215,6 +215,24 @@
         ],
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
+      },
+      {
+        "id": 5,
+        "organization": "ARS Île-de-France",
+        "targetAudience": "test",
+        "softwareType": "stack",
+        "scopes": [
+          {
+            "missions": "311",
+            "processus": 1
+          },
+          {
+            "missions": "311",
+            "processus": 2
+          }
+        ],
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
       }
     ]
   }
