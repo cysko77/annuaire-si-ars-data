@@ -84,7 +84,9 @@
                     "os": {
                         "windows": true,
                         "linux": true,
-                        "mac": false
+                        "mac": true,
+                        "ios": true,
+                        "android": false
                     }
                 },
                 "scopes": [
