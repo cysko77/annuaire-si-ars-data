@@ -224,5 +224,36 @@
                 "processus": 2
             }
         ]
+    },
+    {
+        "id": 7,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "organization": "ARS Île-de-France",
+        "mainSoftwareSillId": 1,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "dfdfdfdfdf",
+        "softwareType": "desktop",
+        "osSelectValue": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": false,
+                "linux": true,
+                "mac": true,
+                "ios": false,
+                "android": false
+            }
+        },
+        "referencedSinceTime": 1748619192167,
+        "updateTime": 1748619192167,
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            },
+            {
+                "missions": "311",
+                "processus": 2
+            }
+        ]
     }
 ]
