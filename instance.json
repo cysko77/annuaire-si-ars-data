@@ -50,28 +50,28 @@
     },
     {
         "id": 2,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
         "mainSoftwareSillId": 1,
         "organization": "ARS Île-de-France",
-        "targetAudience": "dsdsd",
-        "softwareType": "desktop",
+        "otherSoftwareWikidataIds": [],
         "osSelectValue": {
             "type": "desktop/mobile",
             "os": {
-                "windows": true,
+                "windows": false,
                 "linux": false,
                 "mac": false
             }
         },
-        "otherSoftwareWikidataIds": [],
+        "softwareType": "desktop",
+        "targetAudience": "dsdsd",
         "scopes": [
             {
                 "missions": "311",
                 "processus": 1
             }
         ],
-        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
         "referencedSinceTime": 1747933726226,
-        "updateTime": 1747933726226
+        "updateTime": 1748608290891
     },
     {
         "id": 3,
