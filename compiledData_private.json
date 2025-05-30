@@ -83,16 +83,6 @@
                 "organization": "ARS Île-de-France",
                 "targetAudience": "agent",
                 "softwareType": "desktop",
-                "osSelectValue": {
-                    "type": "desktop/mobile",
-                    "os": {
-                        "windows": true,
-                        "linux": true,
-                        "mac": true,
-                        "ios": true,
-                        "android": true
-                    }
-                },
                 "scopes": [
                     {
                         "missions": "311",
@@ -131,14 +121,6 @@
                 "organization": "ARS Île-de-France",
                 "targetAudience": "dsdsd",
                 "softwareType": "desktop",
-                "osSelectValue": {
-                    "type": "desktop/mobile",
-                    "os": {
-                        "windows": false,
-                        "linux": false,
-                        "mac": false
-                    }
-                },
                 "scopes": [
                     {
                         "missions": "311",
@@ -153,14 +135,6 @@
                 "organization": "ARS Île-de-France",
                 "targetAudience": "tout le monde",
                 "softwareType": "desktop",
-                "osSelectValue": {
-                    "type": "desktop/mobile",
-                    "os": {
-                        "windows": true,
-                        "linux": false,
-                        "mac": false
-                    }
-                },
                 "scopes": [
                     {
                         "missions": "311",
@@ -263,16 +237,6 @@
                 "organization": "ARS Île-de-France",
                 "targetAudience": "je ne saisi pas",
                 "softwareType": "desktop",
-                "osSelectValue": {
-                    "type": "desktop/mobile",
-                    "os": {
-                        "windows": false,
-                        "linux": true,
-                        "mac": false,
-                        "ios": false,
-                        "android": true
-                    }
-                },
                 "scopes": [
                     {
                         "missions": "311",
@@ -291,16 +255,6 @@
                 "organization": "ARS Île-de-France",
                 "targetAudience": "dfdfdfdfdf",
                 "softwareType": "desktop",
-                "osSelectValue": {
-                    "type": "desktop/mobile",
-                    "os": {
-                        "windows": false,
-                        "linux": true,
-                        "mac": true,
-                        "ios": false,
-                        "android": false
-                    }
-                },
                 "scopes": [
                     {
                         "missions": "311",
@@ -319,16 +273,6 @@
                 "organization": "ARS Île-de-France",
                 "targetAudience": "dfdfdfdfdf",
                 "softwareType": "desktop",
-                "osSelectValue": {
-                    "type": "desktop/mobile",
-                    "os": {
-                        "windows": false,
-                        "linux": true,
-                        "mac": true,
-                        "ios": false,
-                        "android": false
-                    }
-                },
                 "scopes": [
                     {
                         "missions": "311",
@@ -359,16 +303,6 @@
                 "organization": "ARS Île-de-France",
                 "targetAudience": "dfdfdfdfdf",
                 "softwareType": "desktop",
-                "osSelectValue": {
-                    "type": "desktop/mobile",
-                    "os": {
-                        "windows": false,
-                        "linux": true,
-                        "mac": true,
-                        "ios": false,
-                        "android": false
-                    }
-                },
                 "scopes": [
                     {
                         "missions": "311",
@@ -405,16 +339,6 @@
                 "organization": "ARS Guyane",
                 "targetAudience": "sd",
                 "softwareType": "desktop",
-                "osSelectValue": {
-                    "type": "desktop/mobile",
-                    "os": {
-                        "windows": true,
-                        "linux": true,
-                        "mac": true,
-                        "ios": false,
-                        "android": false
-                    }
-                },
                 "scopes": [
                     {
                         "missions": "311",
@@ -428,7 +352,16 @@
                 "id": 12,
                 "organization": "ARS Provence-Alpes-Côte d'Azur",
                 "targetAudience": "jhg",
-                "softwareType": "cloud",
+                "softwareType": {
+                    "type": "desktop/mobile",
+                    "os": {
+                        "windows": true,
+                        "linux": true,
+                        "mac": false,
+                        "ios": false,
+                        "android": false
+                    }
+                },
                 "scopes": [
                     {
                         "missions": "311",
