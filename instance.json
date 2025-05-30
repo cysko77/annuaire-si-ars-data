@@ -1,15 +1,21 @@
 [
     {
         "id": 1,
-        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
         "mainSoftwareSillId": 1,
         "organization": "ARS Île-de-France",
+        "targetAudience": "agent",
+        "softwareType": "desktop",
+        "osSelectValue": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": false,
+                "mac": false
+            }
+        },
         "otherSoftwareWikidataIds": [
             "Q42916195"
         ],
-        "osSelectValue": "windows",
-        "softwareType": "desktop",
-        "targetAudience": "agent",
         "scopes": [
             {
                 "missions": "311",
@@ -40,36 +46,50 @@
                 "processus": 11
             }
         ],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
         "referencedSinceTime": 1747931481399,
         "updateTime": 1747988358861
     },
     {
         "id": 2,
-        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
-        "organization": "ARS Île-de-France",
         "mainSoftwareSillId": 1,
-        "otherSoftwareWikidataIds": [],
+        "organization": "ARS Île-de-France",
         "targetAudience": "dsdsd",
         "softwareType": "desktop",
-        "osSelectValue": "windows",
-        "referencedSinceTime": 1747933726226,
-        "updateTime": 1747933726226,
+        "osSelectValue": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": false,
+                "mac": false
+            }
+        },
+        "otherSoftwareWikidataIds": [],
         "scopes": [
             {
                 "missions": "311",
                 "processus": 1
             }
-        ]
+        ],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "referencedSinceTime": 1747933726226,
+        "updateTime": 1747933726226
     },
     {
         "id": 3,
-        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
         "mainSoftwareSillId": 1,
         "organization": "ARS Île-de-France",
-        "otherSoftwareWikidataIds": [],
-        "osSelectValue": "windows",
-        "softwareType": "desktop",
         "targetAudience": "tout le monde",
+        "softwareType": "desktop",
+        "osSelectValue": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": false,
+                "mac": false
+            }
+        },
+        "otherSoftwareWikidataIds": [],
         "scopes": [
             {
                 "missions": "311",
@@ -100,17 +120,17 @@
                 "processus": 240
             }
         ],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
         "referencedSinceTime": 1747941607857,
         "updateTime": 1747988256142
     },
     {
         "id": 4,
-        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
         "mainSoftwareSillId": 1,
         "organization": "ARS Île-de-France",
-        "otherSoftwareWikidataIds": [],
-        "softwareType": "stack",
         "targetAudience": "z",
+        "softwareType": "stack",
+        "otherSoftwareWikidataIds": [],
         "scopes": [
             {
                 "missions": "311",
@@ -141,17 +161,17 @@
                 "processus": 369
             }
         ],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
         "referencedSinceTime": 1747941820105,
         "updateTime": 1747947299253
     },
     {
         "id": 5,
-        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
         "mainSoftwareSillId": 1,
         "organization": "ARS Île-de-France",
-        "otherSoftwareWikidataIds": [],
-        "softwareType": "stack",
         "targetAudience": "test",
+        "softwareType": "stack",
+        "otherSoftwareWikidataIds": [],
         "scopes": [
             {
                 "missions": "311",
@@ -170,6 +190,7 @@
                 "processus": 7
             }
         ],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
         "referencedSinceTime": 1748592397476,
         "updateTime": 1748592421688
     }
