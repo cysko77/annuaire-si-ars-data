@@ -319,13 +319,13 @@
     {
         "id": 10,
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
-        "organization": "ARS Bretagne",
         "mainSoftwareSillId": 1,
+        "organization": "ARS Bretagne",
         "otherSoftwareWikidataIds": [],
+        "softwareType": {
+            "type": "cloud"
+        },
         "targetAudience": "fdf",
-        "softwareType": "cloud",
-        "referencedSinceTime": 1748633507958,
-        "updateTime": 1748633507958,
         "scopes": [
             {
                 "missions": "311",
@@ -335,7 +335,9 @@
                 "missions": "311",
                 "processus": 2
             }
-        ]
+        ],
+        "referencedSinceTime": 1748633507958,
+        "updateTime": 1748648226408
     },
     {
         "id": 11,
