@@ -56,15 +56,9 @@
         "mainSoftwareSillId": 1,
         "organization": "ARS Île-de-France",
         "otherSoftwareWikidataIds": [],
-        "osSelectValue": {
-            "type": "desktop/mobile",
-            "os": {
-                "windows": false,
-                "linux": false,
-                "mac": false
-            }
+        "softwareType": {
+            "type": "cloud"
         },
-        "softwareType": "desktop",
         "targetAudience": "dsdsd",
         "scopes": [
             {
@@ -73,7 +67,7 @@
             }
         ],
         "referencedSinceTime": 1747933726226,
-        "updateTime": 1748608290891
+        "updateTime": 1748648186978
     },
     {
         "id": 3,
