@@ -164,11 +164,14 @@
     },
     {
         "id": 5,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
         "mainSoftwareSillId": 1,
         "organization": "ARS Île-de-France",
-        "targetAudience": "test",
-        "softwareType": "stack",
         "otherSoftwareWikidataIds": [],
+        "softwareType": {
+            "type": "cloud"
+        },
+        "targetAudience": "test",
         "scopes": [
             {
                 "missions": "311",
@@ -187,9 +190,8 @@
                 "processus": 7
             }
         ],
-        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
         "referencedSinceTime": 1748592397476,
-        "updateTime": 1748592421688
+        "updateTime": 1748648269732
     },
     {
         "id": 6,
