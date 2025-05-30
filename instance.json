@@ -357,17 +357,16 @@
         "mainSoftwareSillId": 1,
         "organization": "ARS Guyane",
         "otherSoftwareWikidataIds": [],
-        "osSelectValue": {
+        "softwareType": {
             "type": "desktop/mobile",
             "os": {
                 "windows": true,
-                "linux": true,
-                "mac": true,
-                "ios": false,
-                "android": false
+                "linux": false,
+                "mac": false,
+                "ios": true,
+                "android": true
             }
         },
-        "softwareType": "desktop",
         "targetAudience": "sd",
         "scopes": [
             {
@@ -376,7 +375,7 @@
             }
         ],
         "referencedSinceTime": 1748633635402,
-        "updateTime": 1748639300069
+        "updateTime": 1748648163041
     },
     {
         "id": 12,
