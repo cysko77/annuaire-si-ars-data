@@ -418,17 +418,7 @@
                 "id": 12,
                 "organization": "ARS Provence-Alpes-Côte d'Azur",
                 "targetAudience": "jhg",
-                "softwareType": "desktop",
-                "osSelectValue": {
-                    "type": "desktop/mobile",
-                    "os": {
-                        "windows": true,
-                        "linux": true,
-                        "mac": false,
-                        "ios": false,
-                        "android": false
-                    }
-                },
+                "softwareType": "cloud",
                 "scopes": [
                     {
                         "missions": "311",
