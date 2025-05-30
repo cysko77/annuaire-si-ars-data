@@ -313,7 +313,9 @@
                 "id": 10,
                 "organization": "ARS Bretagne",
                 "targetAudience": "fdf",
-                "softwareType": "cloud",
+                "softwareType": {
+                    "type": "cloud"
+                },
                 "scopes": [
                     {
                         "missions": "311",
