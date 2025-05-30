@@ -413,6 +413,34 @@
                 ],
                 "otherWikidataSoftwares": [],
                 "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
+            },
+            {
+                "id": 12,
+                "organization": "ARS Provence-Alpes-Côte d'Azur",
+                "targetAudience": "jhg",
+                "softwareType": "desktop",
+                "osSelectValue": {
+                    "type": "desktop/mobile",
+                    "os": {
+                        "windows": true,
+                        "linux": true,
+                        "mac": false,
+                        "ios": false,
+                        "android": false
+                    }
+                },
+                "scopes": [
+                    {
+                        "missions": "311",
+                        "processus": 1
+                    },
+                    {
+                        "missions": "311",
+                        "processus": 2
+                    }
+                ],
+                "otherWikidataSoftwares": [],
+                "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
             }
         ]
     }
