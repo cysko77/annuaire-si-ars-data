@@ -36,7 +36,9 @@
             "os": {
                 "windows": true,
                 "linux": true,
-                "mac": false
+                "mac": true,
+                "ios": false,
+                "android": true
             }
         },
         "testUrls": [],
@@ -44,7 +46,7 @@
             "semVer": "1.100.2",
             "publicationTime": 1747329525000
         },
-        "updateTime": 1748592401476,
+        "updateTime": 1748612832115,
         "versionMin": "1.100.2",
         "workshopUrls": [],
         "softwareExternalData": {
