@@ -244,7 +244,16 @@
                 "id": 6,
                 "organization": "ARS Île-de-France",
                 "targetAudience": "je ne saisi pas",
-                "softwareType": "desktop",
+                "softwareType": {
+                    "type": "desktop/mobile",
+                    "os": {
+                        "windows": true,
+                        "linux": false,
+                        "mac": false,
+                        "ios": false,
+                        "android": false
+                    }
+                },
                 "scopes": [
                     {
                         "missions": "311",
