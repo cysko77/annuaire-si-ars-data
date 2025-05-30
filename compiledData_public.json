@@ -217,7 +217,9 @@
                 "id": 5,
                 "organization": "ARS Île-de-France",
                 "targetAudience": "test",
-                "softwareType": "stack",
+                "softwareType": {
+                    "type": "cloud"
+                },
                 "scopes": [
                     {
                         "missions": "311",
