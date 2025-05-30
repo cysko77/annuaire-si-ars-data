@@ -120,7 +120,9 @@
                 "id": 2,
                 "organization": "ARS Île-de-France",
                 "targetAudience": "dsdsd",
-                "softwareType": "desktop",
+                "softwareType": {
+                    "type": "cloud"
+                },
                 "scopes": [
                     {
                         "missions": "311",
