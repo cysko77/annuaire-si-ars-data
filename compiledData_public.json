@@ -86,7 +86,7 @@
                         "linux": true,
                         "mac": true,
                         "ios": true,
-                        "android": false
+                        "android": true
                     }
                 },
                 "scopes": [
