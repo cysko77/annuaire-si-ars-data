@@ -81,7 +81,7 @@
             {
                 "id": 1,
                 "organization": "ARS Île-de-France",
-                "targetAudience": "agent",
+                "targetAudience": "",
                 "softwareType": {
                     "type": "desktop/mobile",
                     "os": {
