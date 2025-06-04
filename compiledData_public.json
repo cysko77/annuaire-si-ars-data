@@ -32,14 +32,21 @@
         "name": "Visual Studio Code",
         "referencedSinceTime": 1747931246224,
         "softwareType": {
-            "type": "cloud"
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": true,
+                "mac": false,
+                "ios": false,
+                "android": false
+            }
         },
         "testUrls": [],
         "latestVersion": {
             "semVer": "1.100.2",
             "publicationTime": 1747329525000
         },
-        "updateTime": 1749071623717,
+        "updateTime": 1749071650996,
         "versionMin": "1.100.2",
         "workshopUrls": [],
         "softwareExternalData": {

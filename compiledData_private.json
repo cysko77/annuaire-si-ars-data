@@ -4,7 +4,7 @@
         "name": "Visual Studio Code",
         "description": "éditeur de code multiplateforme gratuit développé par Microsoft",
         "referencedSinceTime": 1747931246224,
-        "updateTime": 1749071623717,
+        "updateTime": 1749071650996,
         "isStillInObservation": false,
         "doRespectRgaa": true,
         "isFromFrenchPublicService": false,
@@ -17,7 +17,14 @@
         },
         "license": "MIT licence",
         "softwareType": {
-            "type": "cloud"
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": true,
+                "mac": false,
+                "ios": false,
+                "android": false
+            }
         },
         "versionMin": "1.100.2",
         "workshopUrls": [],
