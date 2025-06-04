@@ -2,7 +2,7 @@
     {
         "id": 1,
         "referencedSinceTime": 1747931246224,
-        "updateTime": 1748638500592,
+        "updateTime": 1749071623717,
         "isStillInObservation": false,
         "doRespectRgaa": true,
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
@@ -21,10 +21,6 @@
             {
                 "missions": "311",
                 "processus": 1
-            },
-            {
-                "missions": "311",
-                "processus": 2
             }
         ],
         "similarSoftwareExternalDataIds": [],
@@ -33,14 +29,7 @@
         "versionMin": "1.100.2",
         "name": "Visual Studio Code",
         "softwareType": {
-            "type": "desktop/mobile",
-            "os": {
-                "windows": true,
-                "linux": true,
-                "mac": true,
-                "ios": true,
-                "android": true
-            }
+            "type": "cloud"
         },
         "externalId": "Q19841877",
         "keywords": [
